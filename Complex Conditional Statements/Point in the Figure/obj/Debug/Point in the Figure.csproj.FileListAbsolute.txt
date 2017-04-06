@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Point in the Figure\bin\Debug\Point in the Figure.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Point in the Figure\bin\Debug\Point in the Figure.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Point in the Figure\bin\Debug\Point in the Figure.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Point in the Figure\obj\Debug\Point in the Figure.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Point in the Figure\obj\Debug\Point in the Figure.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Point in the Figure\obj\Debug\Point in the Figure.pdb

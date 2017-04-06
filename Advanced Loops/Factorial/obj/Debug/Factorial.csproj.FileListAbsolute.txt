@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Factorial\bin\Debug\Factorial.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Factorial\obj\Debug\Factorial.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Factorial\obj\Debug\Factorial.pdb

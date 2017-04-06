@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Numbers 1...N with Step 3\bin\Debug\Numbers_1._._.N_with_Step_3.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Numbers 1...N with Step 3\bin\Debug\Numbers_1._._.N_with_Step_3.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Numbers 1...N with Step 3\bin\Debug\Numbers_1._._.N_with_Step_3.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Numbers 1...N with Step 3\obj\Debug\Numbers 1...N with Step 3.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Numbers 1...N with Step 3\obj\Debug\Numbers_1._._.N_with_Step_3.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Numbers 1...N with Step 3\obj\Debug\Numbers_1._._.N_with_Step_3.pdb

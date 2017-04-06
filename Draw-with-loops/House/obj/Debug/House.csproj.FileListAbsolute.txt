@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\House\bin\Debug\House.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\House\bin\Debug\House.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\House\bin\Debug\House.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\House\obj\Debug\House.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\House\obj\Debug\House.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\TimeSinceBirthday\bin\Debug\TimeSinceBirthday.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\TimeSinceBirthday\bin\Debug\TimeSinceBirthday.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\TimeSinceBirthday\bin\Debug\TimeSinceBirthday.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\TimeSinceBirthday\obj\Debug\TimeSinceBirthday.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\TimeSinceBirthday\obj\Debug\TimeSinceBirthday.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\TimeSinceBirthday\obj\Debug\TimeSinceBirthday.pdb

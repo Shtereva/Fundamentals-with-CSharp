@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Nums1To20\bin\Debug\Nums1To20.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Nums1To20\bin\Debug\Nums1To20.exe
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Nums1To20\bin\Debug\Nums1To20.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Nums1To20\obj\Debug\Nums1To20.exe
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Nums1To20\obj\Debug\Nums1To20.pdb

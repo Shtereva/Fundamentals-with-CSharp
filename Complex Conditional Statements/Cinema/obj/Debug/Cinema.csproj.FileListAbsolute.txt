@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Cinema\bin\Debug\Cinema.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Cinema\bin\Debug\Cinema.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Cinema\bin\Debug\Cinema.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Cinema\obj\Debug\Cinema.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Cinema\obj\Debug\Cinema.pdb

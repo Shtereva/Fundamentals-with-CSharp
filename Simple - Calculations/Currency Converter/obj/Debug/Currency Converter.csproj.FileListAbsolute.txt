@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Currency Converter\bin\Debug\Currency Converter.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Currency Converter\bin\Debug\Currency Converter.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Currency Converter\bin\Debug\Currency Converter.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Currency Converter\obj\Debug\Currency Converter.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Currency Converter\obj\Debug\Currency Converter.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Currency Converter\obj\Debug\Currency Converter.csprojResolveAssemblyReference.cache

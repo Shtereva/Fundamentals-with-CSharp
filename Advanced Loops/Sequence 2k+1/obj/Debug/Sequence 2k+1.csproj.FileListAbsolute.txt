@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Sequence 2k+1\obj\Debug\Sequence 2k+1.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Sequence 2k+1\obj\Debug\Sequence 2k+1.pdb

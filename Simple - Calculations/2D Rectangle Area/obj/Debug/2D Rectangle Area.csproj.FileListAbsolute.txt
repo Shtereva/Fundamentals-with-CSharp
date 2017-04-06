@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\2D Rectangle Area\bin\Debug\2D Rectangle Area.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\2D Rectangle Area\bin\Debug\2D Rectangle Area.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\2D Rectangle Area\bin\Debug\2D Rectangle Area.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\2D Rectangle Area\obj\Debug\2D Rectangle Area.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\2D Rectangle Area\obj\Debug\2D Rectangle Area.pdb

@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\writeNumber\bin\Debug\writeNumber.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\writeNumber\bin\Debug\writeNumber.exe
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\writeNumber\bin\Debug\writeNumber.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\writeNumber\obj\Debug\writeNumber.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\writeNumber\obj\Debug\writeNumber.exe
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\writeNumber\obj\Debug\writeNumber.pdb

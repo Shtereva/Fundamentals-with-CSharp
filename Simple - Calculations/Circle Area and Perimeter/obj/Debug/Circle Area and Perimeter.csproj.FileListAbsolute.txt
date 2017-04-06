@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Circle Area and Perimeter\obj\Debug\Circle Area and Perimeter.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Circle Area and Perimeter\obj\Debug\Circle Area and Perimeter.pdb

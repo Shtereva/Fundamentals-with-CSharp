@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Trade Comissions\bin\Debug\Trade Comissions.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Trade Comissions\bin\Debug\Trade Comissions.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Trade Comissions\bin\Debug\Trade Comissions.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Trade Comissions\obj\Debug\Trade Comissions.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Trade Comissions\obj\Debug\Trade Comissions.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Trade Comissions\obj\Debug\Trade Comissions.pdb

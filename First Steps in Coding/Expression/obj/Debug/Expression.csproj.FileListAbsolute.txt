@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Expression\bin\Debug\Expression.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Expression\bin\Debug\Expression.exe
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Expression\bin\Debug\Expression.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Expression\obj\Debug\Expression.exe
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Expression\obj\Debug\Expression.pdb

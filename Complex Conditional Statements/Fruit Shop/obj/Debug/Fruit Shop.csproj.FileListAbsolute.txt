@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Fruit Shop\bin\Debug\Fruit Shop.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Fruit Shop\bin\Debug\Fruit Shop.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Fruit Shop\bin\Debug\Fruit Shop.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Fruit Shop\obj\Debug\Fruit Shop.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Fruit Shop\obj\Debug\Fruit Shop.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Fruit Shop\obj\Debug\Fruit Shop.pdb

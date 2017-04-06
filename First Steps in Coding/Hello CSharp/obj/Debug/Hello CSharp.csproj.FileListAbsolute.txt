@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Hello CSharp\bin\Debug\Hello CSharp.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Hello CSharp\bin\Debug\Hello CSharp.exe
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Hello CSharp\bin\Debug\Hello CSharp.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Hello CSharp\obj\Debug\Hello CSharp.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Hello CSharp\obj\Debug\Hello CSharp.exe
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Hello CSharp\obj\Debug\Hello CSharp.pdb

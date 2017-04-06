@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple Loop\Equal Pairs\bin\Debug\Equal Pairs.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple Loop\Equal Pairs\bin\Debug\Equal Pairs.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple Loop\Equal Pairs\bin\Debug\Equal Pairs.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple Loop\Equal Pairs\obj\Debug\Equal Pairs.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple Loop\Equal Pairs\obj\Debug\Equal Pairs.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple Loop\Equal Pairs\obj\Debug\Equal Pairs.pdb

@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\USD to BGN\bin\Debug\USD to BGN.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\USD to BGN\bin\Debug\USD to BGN.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\USD to BGN\bin\Debug\USD to BGN.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\USD to BGN\obj\Debug\USD to BGN.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\USD to BGN\obj\Debug\USD to BGN.pdb

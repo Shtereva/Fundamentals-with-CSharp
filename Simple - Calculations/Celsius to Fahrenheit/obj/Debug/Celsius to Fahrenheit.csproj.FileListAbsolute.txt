@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.pdb

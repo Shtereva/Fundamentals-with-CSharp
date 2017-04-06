@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Metric Converter\bin\Debug\Metric Converter.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Metric Converter\bin\Debug\Metric Converter.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Metric Converter\bin\Debug\Metric Converter.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Metric Converter\obj\Debug\Metric Converter.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Metric Converter\obj\Debug\Metric Converter.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Metric Converter\obj\Debug\Metric Converter.pdb

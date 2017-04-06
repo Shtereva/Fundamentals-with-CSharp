@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Check Prime\bin\Debug\Check Prime.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Check Prime\bin\Debug\Check Prime.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Check Prime\bin\Debug\Check Prime.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Check Prime\obj\Debug\Check Prime.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Check Prime\obj\Debug\Check Prime.pdb

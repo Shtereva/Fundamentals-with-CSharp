@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Rhombus of Stars\obj\Debug\Rhombus of Stars.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Rhombus of Stars\obj\Debug\Rhombus of Stars.pdb

@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Rectangle-of- 10x10-Stars\bin\Debug\Rectangle-of- 10x10-Stars.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Rectangle-of- 10x10-Stars\bin\Debug\Rectangle-of- 10x10-Stars.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Rectangle-of- 10x10-Stars\bin\Debug\Rectangle-of- 10x10-Stars.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Rectangle-of- 10x10-Stars\obj\Debug\Rectangle-of- 10x10-Stars.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Rectangle-of- 10x10-Stars\obj\Debug\Rectangle-of- 10x10-Stars.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Rectangle-of- 10x10-Stars\obj\Debug\Rectangle-of- 10x10-Stars.pdb

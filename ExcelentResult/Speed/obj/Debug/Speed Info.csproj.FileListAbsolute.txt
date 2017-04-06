@@ -1,0 +1,3 @@
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Speed\bin\Debug\Speed.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Speed\obj\Debug\Speed.exe
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Speed\obj\Debug\Speed.pdb

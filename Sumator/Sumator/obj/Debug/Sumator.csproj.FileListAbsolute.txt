@@ -1,0 +1,9 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Sumator\Sumator\bin\Debug\Sumator.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Sumator\Sumator\bin\Debug\Sumator.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Sumator\Sumator\bin\Debug\Sumator.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.FormCalculate.resources
+c:\users\kimi\documents\visual studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.Properties.Resources.resources
+c:\users\kimi\documents\visual studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.csproj.GenerateResource.Cache
+c:\users\kimi\documents\visual studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Sumator\Sumator\obj\Debug\Sumator.pdb

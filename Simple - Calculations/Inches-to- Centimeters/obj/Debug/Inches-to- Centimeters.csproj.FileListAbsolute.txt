@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Inches-to- Centimeters\bin\Debug\Inches-to- Centimeters.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Inches-to- Centimeters\bin\Debug\Inches-to- Centimeters.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Inches-to- Centimeters\bin\Debug\Inches-to- Centimeters.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Inches-to- Centimeters\obj\Debug\Inches-to- Centimeters.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Inches-to- Centimeters\obj\Debug\Inches-to- Centimeters.pdb

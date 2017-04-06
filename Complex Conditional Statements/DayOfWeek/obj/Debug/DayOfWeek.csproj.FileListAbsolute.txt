@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\DayOfWeek\bin\Debug\DayOfWeek.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\DayOfWeek\bin\Debug\DayOfWeek.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\DayOfWeek\obj\Debug\DayOfWeek.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\DayOfWeek\obj\Debug\DayOfWeek.pdb

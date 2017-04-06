@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Sunglasses\bin\Debug\Sunglasses.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Sunglasses\bin\Debug\Sunglasses.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Sunglasses\bin\Debug\Sunglasses.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Sunglasses\obj\Debug\Sunglasses.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Sunglasses\obj\Debug\Sunglasses.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache

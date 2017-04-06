@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Personal Title\bin\Debug\Personal Title.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Personal Title\bin\Debug\Personal Title.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Personal Title\bin\Debug\Personal Title.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Personal Title\obj\Debug\Personal Title.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Personal Title\obj\Debug\Personal Title.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Personal Title\obj\Debug\Personal Title.pdb

@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Proba\proba2\bin\Debug\proba2.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Proba\proba2\bin\Debug\proba2.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Proba\proba2\bin\Debug\proba2.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Proba\proba2\obj\Debug\proba2.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Proba\proba2\obj\Debug\proba2.pdb

@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\Vowels Sum\bin\Debug\Vowels Sum.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\Vowels Sum\bin\Debug\Vowels Sum.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\Vowels Sum\bin\Debug\Vowels Sum.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\Vowels Sum\obj\Debug\Vowels Sum.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\Vowels Sum\obj\Debug\Vowels Sum.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\Vowels Sum\obj\Debug\Vowels Sum.pdb

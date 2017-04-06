@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Bonus Score\bin\Debug\Bonus Score.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Bonus Score\bin\Debug\Bonus Score.exe
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Bonus Score\bin\Debug\Bonus Score.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Bonus Score\obj\Debug\Bonus Score.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Bonus Score\obj\Debug\Bonus Score.exe
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Bonus Score\obj\Debug\Bonus Score.pdb

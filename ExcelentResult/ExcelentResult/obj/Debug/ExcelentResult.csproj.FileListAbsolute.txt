@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\ExcelentResult\bin\Debug\ExcelentResult.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\ExcelentResult\bin\Debug\ExcelentResult.exe
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\ExcelentResult\bin\Debug\ExcelentResult.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\ExcelentResult\obj\Debug\ExcelentResult.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\ExcelentResult\obj\Debug\ExcelentResult.exe
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\ExcelentResult\obj\Debug\ExcelentResult.pdb

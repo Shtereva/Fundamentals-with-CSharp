@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Triangle Area\bin\Debug\Triangle Area.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Triangle Area\bin\Debug\Triangle Area.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Triangle Area\bin\Debug\Triangle Area.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Triangle Area\obj\Debug\Triangle Area.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Triangle Area\obj\Debug\Triangle Area.pdb

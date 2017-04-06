@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Rectangle Area\bin\Debug\Rectangle Area.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Rectangle Area\bin\Debug\Rectangle Area.exe
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Rectangle Area\bin\Debug\Rectangle Area.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Rectangle Area\obj\Debug\Rectangle Area.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Rectangle Area\obj\Debug\Rectangle Area.exe
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Rectangle Area\obj\Debug\Rectangle Area.pdb

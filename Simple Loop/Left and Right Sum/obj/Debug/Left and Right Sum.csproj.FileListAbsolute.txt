@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\Left and Right Sum\bin\Debug\Left and Right Sum.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\Left and Right Sum\bin\Debug\Left and Right Sum.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\Left and Right Sum\bin\Debug\Left and Right Sum.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\Left and Right Sum\obj\Debug\Left and Right Sum.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\Left and Right Sum\obj\Debug\Left and Right Sum.pdb

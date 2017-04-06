@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple Loop\Odd  Even Position\bin\Debug\Odd  Even Position.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple Loop\Odd  Even Position\bin\Debug\Odd  Even Position.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple Loop\Odd  Even Position\bin\Debug\Odd  Even Position.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple Loop\Odd  Even Position\obj\Debug\Odd  Even Position.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple Loop\Odd  Even Position\obj\Debug\Odd  Even Position.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple Loop\Odd  Even Position\obj\Debug\Odd  Even Position.pdb

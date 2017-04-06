@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\Odd Even Sum\bin\Debug\Odd Even Sum.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\Odd Even Sum\bin\Debug\Odd Even Sum.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\Odd Even Sum\bin\Debug\Odd Even Sum.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\Odd Even Sum\obj\Debug\Odd Even Sum.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\Odd Even Sum\obj\Debug\Odd Even Sum.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\Odd Even Sum\obj\Debug\Odd Even Sum.pdb

@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Triangle of Dollars\obj\Debug\Triangle of Dollars.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Triangle of Dollars\obj\Debug\Triangle of Dollars.pdb

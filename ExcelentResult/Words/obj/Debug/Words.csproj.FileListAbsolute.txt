@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Words\bin\Debug\Words.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Words\bin\Debug\Words.exe
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Words\bin\Debug\Words.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Words\obj\Debug\Words.exe
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Words\obj\Debug\Words.pdb

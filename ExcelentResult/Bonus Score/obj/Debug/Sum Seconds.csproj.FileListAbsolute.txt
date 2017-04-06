@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Bonus Score\bin\Debug\Bonus Score.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Bonus Score\obj\Debug\Bonus Score.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Bonus Score\obj\Debug\Bonus Score.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Bonus Score\obj\Debug\Sum Seconds.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Bonus Score\bin\Debug\Bonus Score.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Bonus Score\bin\Debug\Bonus Score.pdb

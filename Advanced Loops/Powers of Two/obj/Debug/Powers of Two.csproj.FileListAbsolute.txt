@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Powers of Two\bin\Debug\Powers of Two.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Powers of Two\bin\Debug\Powers of Two.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Powers of Two\bin\Debug\Powers of Two.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Powers of Two\obj\Debug\Powers of Two.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Powers of Two\obj\Debug\Powers of Two.pdb

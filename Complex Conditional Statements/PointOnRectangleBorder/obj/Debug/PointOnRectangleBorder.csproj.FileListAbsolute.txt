@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.pdb

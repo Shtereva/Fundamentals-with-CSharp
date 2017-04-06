@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\MaxNumber\bin\Debug\MaxNumber.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\MaxNumber\bin\Debug\MaxNumber.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\MaxNumber\bin\Debug\MaxNumber.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\MaxNumber\obj\Debug\MaxNumber.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\MaxNumber\obj\Debug\MaxNumber.pdb

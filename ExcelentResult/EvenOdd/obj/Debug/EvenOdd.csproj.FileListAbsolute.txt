@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\EvenOdd\bin\Debug\EvenOdd.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\EvenOdd\bin\Debug\EvenOdd.exe
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\EvenOdd\bin\Debug\EvenOdd.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\EvenOdd\obj\Debug\EvenOdd.exe
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\EvenOdd\obj\Debug\EvenOdd.pdb

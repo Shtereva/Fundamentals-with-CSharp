@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Proba\Proba\bin\Debug\Proba.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Proba\Proba\bin\Debug\Proba.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Proba\Proba\bin\Debug\Proba.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Proba\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\Proba\Proba\obj\Debug\Proba.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Proba\Proba\obj\Debug\Proba.pdb

@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\BiggerNumber\bin\Debug\BiggerNumber.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\BiggerNumber\bin\Debug\BiggerNumber.exe
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\BiggerNumber\bin\Debug\BiggerNumber.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\BiggerNumber\obj\Debug\BiggerNumber.exe
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\BiggerNumber\obj\Debug\BiggerNumber.pdb

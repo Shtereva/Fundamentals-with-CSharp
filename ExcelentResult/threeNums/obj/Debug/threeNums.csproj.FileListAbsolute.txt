@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\threeNums\bin\Debug\threeNums.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\threeNums\bin\Debug\threeNums.exe
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\threeNums\bin\Debug\threeNums.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\threeNums\obj\Debug\threeNums.exe
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\threeNums\obj\Debug\threeNums.pdb

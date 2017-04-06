@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Square Frame\bin\Debug\Square Frame.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Square Frame\bin\Debug\Square Frame.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Square Frame\bin\Debug\Square Frame.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Square Frame\obj\Debug\Square Frame.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Draw-with-loops\Square Frame\obj\Debug\Square Frame.pdb

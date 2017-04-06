@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Sum Digits\bin\Debug\Sum Digits.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Sum Digits\bin\Debug\Sum Digits.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Sum Digits\bin\Debug\Sum Digits.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Sum Digits\obj\Debug\Sum Digits.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Loops\Sum Digits\obj\Debug\Sum Digits.pdb

@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Nums1To20 - for loop\bin\Debug\Nums1To20 - for loop.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Nums1To20 - for loop\bin\Debug\Nums1To20 - for loop.exe
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Nums1To20 - for loop\bin\Debug\Nums1To20 - for loop.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Nums1To20 - for loop\obj\Debug\Nums1To20 - for loop.exe
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\Nums1To20 - for loop\obj\Debug\Nums1To20 - for loop.pdb

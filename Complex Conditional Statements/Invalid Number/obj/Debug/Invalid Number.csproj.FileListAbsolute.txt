@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Invalid Number\bin\Debug\Invalid Number.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Invalid Number\bin\Debug\Invalid Number.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Invalid Number\bin\Debug\Invalid Number.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Invalid Number\obj\Debug\Invalid Number.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Complex Conditional Statements\Invalid Number\obj\Debug\Invalid Number.pdb

@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Figures\bin\Debug\Figures.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Figures\bin\Debug\Figures.exe
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Figures\bin\Debug\Figures.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Figures\obj\Debug\Figures.exe
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Figures\obj\Debug\Figures.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Figures\obj\Debug\Figures.csprojResolveAssemblyReference.cache

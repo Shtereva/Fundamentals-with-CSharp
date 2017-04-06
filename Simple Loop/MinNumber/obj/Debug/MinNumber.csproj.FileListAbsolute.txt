@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\MinNumber\bin\Debug\MinNumber.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\MinNumber\bin\Debug\MinNumber.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\MinNumber\bin\Debug\MinNumber.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\MinNumber\obj\Debug\MinNumber.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple Loop\MinNumber\obj\Debug\MinNumber.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple Loop\MinNumber\obj\Debug\MinNumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Number 0...100 to Text\bin\Debug\Number_0._._._100_to_Text.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Number 0...100 to Text\bin\Debug\Number_0._._._100_to_Text.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Number 0...100 to Text\bin\Debug\Number_0._._._100_to_Text.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Number 0...100 to Text\obj\Debug\Number 0...100 to Text.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Number 0...100 to Text\obj\Debug\Number_0._._._100_to_Text.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Number 0...100 to Text\obj\Debug\Number_0._._._100_to_Text.pdb

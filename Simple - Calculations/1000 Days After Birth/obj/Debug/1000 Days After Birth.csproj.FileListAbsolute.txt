@@ -1,0 +1,7 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple - Calculations\1000 Days After Birth\bin\Debug\1000 Days After Birth.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple - Calculations\1000 Days After Birth\bin\Debug\1000 Days After Birth.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple - Calculations\1000 Days After Birth\bin\Debug\1000 Days After Birth.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple - Calculations\1000 Days After Birth\obj\Debug\1000 Days After Birth.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple - Calculations\1000 Days After Birth\obj\Debug\1000 Days After Birth.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple - Calculations\1000 Days After Birth\bin\Debug\1000 Days After Birth.exe.CodeAnalysisLog.xml
+C:\Users\Kimi\documents\visual studio 2015\Projects\Simple - Calculations\1000 Days After Birth\bin\Debug\1000 Days After Birth.exe.lastcodeanalysissucceeded

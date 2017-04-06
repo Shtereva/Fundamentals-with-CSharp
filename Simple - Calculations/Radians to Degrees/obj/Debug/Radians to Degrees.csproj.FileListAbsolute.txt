@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Radians to Degrees\bin\Debug\Radians to Degrees.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Radians to Degrees\bin\Debug\Radians to Degrees.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Radians to Degrees\bin\Debug\Radians to Degrees.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Radians to Degrees\obj\Debug\Radians to Degrees.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Simple - Calculations\Radians to Degrees\obj\Debug\Radians to Degrees.pdb

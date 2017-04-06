@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

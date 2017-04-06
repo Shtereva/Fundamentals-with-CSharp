@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\ExcelentResult\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\ExcelentResult\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.pdb

@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\TriangleOf55Stars - for loop\bin\Debug\TriangleOf55Stars - for loop.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\TriangleOf55Stars - for loop\bin\Debug\TriangleOf55Stars - for loop.exe
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\TriangleOf55Stars - for loop\bin\Debug\TriangleOf55Stars - for loop.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\TriangleOf55Stars - for loop\obj\Debug\TriangleOf55Stars - for loop.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\TriangleOf55Stars - for loop\obj\Debug\TriangleOf55Stars - for loop.exe
+c:\users\kimi\documents\visual studio 2015\Projects\First Steps in Coding\TriangleOf55Stars - for loop\obj\Debug\TriangleOf55Stars - for loop.pdb
