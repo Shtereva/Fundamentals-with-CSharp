@@ -10,17 +10,16 @@ namespace Equal_Pairs
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            Console.WriteLine("+{0}+{1}", new string('~', n - 2), new string('.', 2 * n + 1));
-            for (int i = 0; i < 2 * n + 1; i++)
+            int num = int.Parse(Console.ReadLine());
+            for (int i = 1; i <= num; i++)
             {
-                Console.WriteLine("|{0}\\{1}\\{2}", new string('.', i), new string('~', n - 2), new string('.', 2 * n - i));
+                int sum = 0;
+                foreach (var symbol in i.ToString())
+                {
+                    sum += (symbol - '0');
+                }
+                Console.WriteLine(sum == 5 || sum == 7 || sum == 11 ? "{0} True" : "{0} False", i);
             }
-            for (int i = 0; i < 2 * n + 1; i++)
-            {
-                Console.WriteLine("{0}\\{1}|{2}|",new string('.', i), new string('.', 2 * n - i), new string('~', n - 2));
-            }
-            Console.WriteLine("{0}+{1}+", new string('.', 2 * n + 1), new string('~', n - 2));
         }
     }
 }
