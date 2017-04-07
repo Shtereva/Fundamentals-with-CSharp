@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.pdb
