@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\Greeting\bin\Debug\Greeting.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\Greeting\bin\Debug\Greeting.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\Greeting\bin\Debug\Greeting.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\Greeting\obj\Debug\Greeting.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\Greeting\obj\Debug\Greeting.pdb

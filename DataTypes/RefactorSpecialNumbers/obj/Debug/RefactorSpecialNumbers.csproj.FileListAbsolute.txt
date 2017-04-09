@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.pdb

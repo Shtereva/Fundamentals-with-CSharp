@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\RefactorVolumeOfPyramid\obj\Debug\RefactorVolumeOfPyramid.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypes\RefactorVolumeOfPyramid\obj\Debug\RefactorVolumeOfPyramid.pdb
