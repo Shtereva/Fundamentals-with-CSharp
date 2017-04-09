@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.exe
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.pdb

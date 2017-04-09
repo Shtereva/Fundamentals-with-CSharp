@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\FloatOrInteger\bin\Debug\FloatOrInteger.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\FloatOrInteger\bin\Debug\FloatOrInteger.exe
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\FloatOrInteger\bin\Debug\FloatOrInteger.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\FloatOrInteger\obj\Debug\FloatOrInteger.exe
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\FloatOrInteger\obj\Debug\FloatOrInteger.pdb

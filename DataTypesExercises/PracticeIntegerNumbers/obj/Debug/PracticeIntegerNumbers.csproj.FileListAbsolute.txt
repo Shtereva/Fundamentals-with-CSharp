@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.exe
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.exe
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.pdb

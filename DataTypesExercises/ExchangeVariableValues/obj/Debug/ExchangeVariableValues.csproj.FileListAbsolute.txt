@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
