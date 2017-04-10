@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TriangleFormations\bin\Debug\TriangleFormations.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TriangleFormations\bin\Debug\TriangleFormations.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TriangleFormations\bin\Debug\TriangleFormations.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TriangleFormations\obj\Debug\TriangleFormations.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TriangleFormations\obj\Debug\TriangleFormations.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TriangleFormations\obj\Debug\TriangleFormations.pdb

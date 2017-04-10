@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\DataOverflow\bin\Debug\DataOverflow.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\DataOverflow\obj\Debug\DataOverflow.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\DataOverflow\bin\Debug\DataOverflow.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\DataOverflow\bin\Debug\DataOverflow.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\DataOverflow\obj\Debug\DataOverflow.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\DataOverflow\obj\Debug\DataOverflow.pdb

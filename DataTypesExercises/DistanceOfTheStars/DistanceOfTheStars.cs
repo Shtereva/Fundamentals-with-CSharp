@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DistanceOfTheStars
 {
-    class Program
+    class DistanceOfTheStars
     {
         static void Main(string[] args)
         {

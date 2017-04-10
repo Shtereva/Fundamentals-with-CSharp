@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DB4F0717-5839-472B-BAC9-17FA2EE898DB}</ProjectGuid>
+    <ProjectGuid>{21D27305-565A-4BB5-88C7-79269D9E5C2C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DistanceOfTheStars</RootNamespace>
-    <AssemblyName>DistanceOfTheStars</AssemblyName>
+    <RootNamespace>TriangleFormations</RootNamespace>
+    <AssemblyName>TriangleFormations</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DistanceOfTheStars.cs" />
+    <Compile Include="TriangleFormations.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

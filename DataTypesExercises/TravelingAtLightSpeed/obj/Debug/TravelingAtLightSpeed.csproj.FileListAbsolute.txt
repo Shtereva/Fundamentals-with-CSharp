@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TravelingAtLightSpeed\bin\Debug\TravelingAtLightSpeed.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TravelingAtLightSpeed\bin\Debug\TravelingAtLightSpeed.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TravelingAtLightSpeed\bin\Debug\TravelingAtLightSpeed.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TravelingAtLightSpeed\obj\Debug\TravelingAtLightSpeed.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TravelingAtLightSpeed\obj\Debug\TravelingAtLightSpeed.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TravelingAtLightSpeed\obj\Debug\TravelingAtLightSpeed.csprojResolveAssemblyReference.cache

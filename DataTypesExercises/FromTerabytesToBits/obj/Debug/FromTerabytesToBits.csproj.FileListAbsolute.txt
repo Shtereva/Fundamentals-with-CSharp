@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\FromTerabytesToBits\bin\Debug\FromTerabytesToBits.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\FromTerabytesToBits\bin\Debug\FromTerabytesToBits.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\FromTerabytesToBits\bin\Debug\FromTerabytesToBits.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\FromTerabytesToBits\obj\Debug\FromTerabytesToBits.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\FromTerabytesToBits\obj\Debug\FromTerabytesToBits.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\FromTerabytesToBits\obj\Debug\FromTerabytesToBits.pdb
