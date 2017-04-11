@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

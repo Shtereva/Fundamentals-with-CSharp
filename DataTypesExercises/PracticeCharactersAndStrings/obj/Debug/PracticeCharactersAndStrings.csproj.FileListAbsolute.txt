@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.pdb

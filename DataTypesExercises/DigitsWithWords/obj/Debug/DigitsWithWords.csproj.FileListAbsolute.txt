@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\DigitsWithWords\bin\Debug\DigitsWithWords.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\DigitsWithWords\bin\Debug\DigitsWithWords.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\DigitsWithWords\bin\Debug\DigitsWithWords.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\DigitsWithWords\obj\Debug\DigitsWithWords.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\DigitsWithWords\obj\Debug\DigitsWithWords.pdb

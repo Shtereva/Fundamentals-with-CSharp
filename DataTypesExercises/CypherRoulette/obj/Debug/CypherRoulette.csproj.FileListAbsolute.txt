@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\CypherRoulette\bin\Debug\CypherRoulette.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\CypherRoulette\bin\Debug\CypherRoulette.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\CypherRoulette\bin\Debug\CypherRoulette.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\CypherRoulette\obj\Debug\CypherRoulette.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\CypherRoulette\obj\Debug\CypherRoulette.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\CypherRoulette\obj\Debug\CypherRoulette.pdb

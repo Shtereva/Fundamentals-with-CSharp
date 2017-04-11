@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\Calculator\bin\Debug\Calculator.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\Calculator\obj\Debug\Calculator.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\Calculator\obj\Debug\Calculator.pdb
