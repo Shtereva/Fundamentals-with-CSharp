@@ -14,40 +14,32 @@ namespace CypherRoulette
             string text = string.Empty;
             string cypher = string.Empty;
             string currentText = string.Empty;
-            string afterSpinText = string.Empty;
-            int countSpins = 0;
+            bool countSpins = true;
             for (int i = 0; i < number; i++)
             {
                 string randomText = Console.ReadLine();
+                if (randomText == "spin") { number++; }
+                if (randomText == "spin")
+                {
+                     countSpins = !countSpins;
+                }
+                    switch (countSpins)
+                    {
+                        case (true): cypher = text + randomText; text = cypher; break;
+                        case (false): cypher = randomText + text; text = cypher; break;
+                    }
                 if (randomText == currentText)
                 {
-                    if (randomText == "spin") { number++; }
-                    text = string.Empty; cypher = string.Empty; afterSpinText = string.Empty; countSpins = 0; currentText = string.Empty;
-                    continue;
+                    text = string.Empty; cypher = string.Empty;
+                    if (currentText == "spin")
+                    {
+                        countSpins = !countSpins;
+                    }
+                    currentText = randomText;
                 }
-                if (randomText != "spin")
-                {
-                        text += randomText;
-                        cypher = text;
-                        currentText = randomText;
-                }
-                else
-                {
-                    afterSpinText = Console.ReadLine();
-                    if (countSpins == 0)
-                        {
-                            cypher = afterSpinText + text;
-                            text = cypher;
-                        }
-                        else
-                        {
-                            cypher = text + afterSpinText;
-                            text = cypher;
-                        }
-                        countSpins++;
-                        currentText = afterSpinText;
-                }
+                currentText = randomText;
             }
+            cypher = cypher.Replace("spin", string.Empty);
             Console.WriteLine(cypher);
         }
     }
