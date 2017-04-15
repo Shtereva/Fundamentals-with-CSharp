@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Methods - Defining and Calling Methods\BlankReceipt\bin\Debug\BlankReceipt.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Methods - Defining and Calling Methods\BlankReceipt\bin\Debug\BlankReceipt.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Methods - Defining and Calling Methods\BlankReceipt\bin\Debug\BlankReceipt.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Methods - Defining and Calling Methods\BlankReceipt\obj\Debug\BlankReceipt.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\Methods - Defining and Calling Methods\BlankReceipt\obj\Debug\BlankReceipt.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Methods - Defining and Calling Methods\BlankReceipt\obj\Debug\BlankReceipt.pdb
