@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\StringRepeater\bin\Debug\StringRepeater.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\StringRepeater\bin\Debug\StringRepeater.exe
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\StringRepeater\bin\Debug\StringRepeater.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\StringRepeater\obj\Debug\StringRepeater.exe
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\StringRepeater\obj\Debug\StringRepeater.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\NumbersToWords\bin\Debug\NumbersToWords.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\NumbersToWords\bin\Debug\NumbersToWords.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\NumbersToWords\bin\Debug\NumbersToWords.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\NumbersToWords\obj\Debug\NumbersToWords.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\NumbersToWords\obj\Debug\NumbersToWords.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\NumbersToWords\obj\Debug\NumbersToWords.pdb

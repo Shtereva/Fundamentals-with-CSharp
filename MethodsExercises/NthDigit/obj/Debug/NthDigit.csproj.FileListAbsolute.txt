@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\NthDigit\bin\Debug\NthDigit.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\NthDigit\bin\Debug\NthDigit.exe
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\NthDigit\bin\Debug\NthDigit.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\NthDigit\obj\Debug\NthDigit.exe
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\NthDigit\obj\Debug\NthDigit.pdb

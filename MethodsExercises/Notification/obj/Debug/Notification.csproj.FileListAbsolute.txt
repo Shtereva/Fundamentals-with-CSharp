@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\Notification\bin\Debug\Notification.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\Notification\bin\Debug\Notification.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\Notification\bin\Debug\Notification.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\Notification\obj\Debug\Notification.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\Notification\obj\Debug\Notification.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\Notification\obj\Debug\Notification.pdb

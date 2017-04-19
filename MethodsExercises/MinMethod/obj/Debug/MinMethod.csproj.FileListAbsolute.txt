@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\MinMethod\bin\Debug\MinMethod.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\MinMethod\bin\Debug\MinMethod.exe
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\MinMethod\bin\Debug\MinMethod.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\MinMethod\obj\Debug\MinMethod.exe
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\MinMethod\obj\Debug\MinMethod.pdb

@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\IntegerToBase\bin\Debug\IntegerToBase.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\IntegerToBase\bin\Debug\IntegerToBase.exe
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\IntegerToBase\bin\Debug\IntegerToBase.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\IntegerToBase\obj\Debug\IntegerToBase.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\IntegerToBase\obj\Debug\IntegerToBase.exe
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\IntegerToBase\obj\Debug\IntegerToBase.pdb

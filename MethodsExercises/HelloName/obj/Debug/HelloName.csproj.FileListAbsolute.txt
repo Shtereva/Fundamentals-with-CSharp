@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\HelloName\bin\Debug\HelloName.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\HelloName\bin\Debug\HelloName.exe
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\HelloName\bin\Debug\HelloName.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\HelloName\obj\Debug\HelloName.exe
+c:\users\kimi\documents\visual studio 2015\Projects\MethodsExercises\HelloName\obj\Debug\HelloName.pdb
