@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\StringEncryption\bin\Debug\StringEncryption.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\StringEncryption\bin\Debug\StringEncryption.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\StringEncryption\bin\Debug\StringEncryption.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\StringEncryption\obj\Debug\StringEncryption.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\StringEncryption\obj\Debug\StringEncryption.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\StringEncryption\obj\Debug\StringEncryption.pdb
