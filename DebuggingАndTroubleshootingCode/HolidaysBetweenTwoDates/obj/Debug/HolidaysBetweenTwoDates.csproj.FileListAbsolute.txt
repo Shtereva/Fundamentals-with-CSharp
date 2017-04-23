@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.exe
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\HolidaysBetweenTwoDates\obj\Debug\HolidaysBetweenTwoDates.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\HolidaysBetweenTwoDates\obj\Debug\HolidaysBetweenTwoDates.exe
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\HolidaysBetweenTwoDates\obj\Debug\HolidaysBetweenTwoDates.pdb

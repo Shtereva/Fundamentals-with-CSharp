@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\MultiplyEvenByOddDigits\bin\Debug\MultiplyEvenByOddDigits.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\MultiplyEvenByOddDigits\bin\Debug\MultiplyEvenByOddDigits.exe
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\MultiplyEvenByOddDigits\bin\Debug\MultiplyEvenByOddDigits.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\MultiplyEvenByOddDigits\obj\Debug\MultiplyEvenByOddDigits.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\MultiplyEvenByOddDigits\obj\Debug\MultiplyEvenByOddDigits.exe
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\MultiplyEvenByOddDigits\obj\Debug\MultiplyEvenByOddDigits.pdb

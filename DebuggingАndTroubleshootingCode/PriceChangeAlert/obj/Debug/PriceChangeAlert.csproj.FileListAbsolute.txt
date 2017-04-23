@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\PriceChangeAlert\bin\Debug\PriceChangeAlert.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\PriceChangeAlert\bin\Debug\PriceChangeAlert.exe
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\PriceChangeAlert\bin\Debug\PriceChangeAlert.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\PriceChangeAlert\obj\Debug\PriceChangeAlert.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\PriceChangeAlert\obj\Debug\PriceChangeAlert.exe
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\PriceChangeAlert\obj\Debug\PriceChangeAlert.pdb

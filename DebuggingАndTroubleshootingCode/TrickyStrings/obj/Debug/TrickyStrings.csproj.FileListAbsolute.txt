@@ -1,0 +1,5 @@
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\TrickyStrings\bin\Debug\TrickyStrings.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\TrickyStrings\bin\Debug\TrickyStrings.exe
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\TrickyStrings\bin\Debug\TrickyStrings.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\TrickyStrings\obj\Debug\TrickyStrings.exe
+c:\users\kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\TrickyStrings\obj\Debug\TrickyStrings.pdb
