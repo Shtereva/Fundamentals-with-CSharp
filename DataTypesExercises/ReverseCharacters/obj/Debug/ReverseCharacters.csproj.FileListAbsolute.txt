@@ -1,0 +1,5 @@
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DataTypesExercises\ReverseCharacters\bin\Debug\ReverseCharacters.exe.config
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DataTypesExercises\ReverseCharacters\bin\Debug\ReverseCharacters.exe
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DataTypesExercises\ReverseCharacters\bin\Debug\ReverseCharacters.pdb
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DataTypesExercises\ReverseCharacters\obj\Debug\ReverseCharacters.exe
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DataTypesExercises\ReverseCharacters\obj\Debug\ReverseCharacters.pdb

@@ -3,3 +3,4 @@ c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\DistanceO
 c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\DistanceOfTheStars\bin\Debug\DistanceOfTheStars.pdb
 c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\DistanceOfTheStars\obj\Debug\DistanceOfTheStars.exe
 c:\users\kimi\documents\visual studio 2015\Projects\DataTypesExercises\DistanceOfTheStars\obj\Debug\DistanceOfTheStars.pdb
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DataTypesExercises\DistanceOfTheStars\obj\Debug\DistanceOfTheStars.csprojResolveAssemblyReference.cache

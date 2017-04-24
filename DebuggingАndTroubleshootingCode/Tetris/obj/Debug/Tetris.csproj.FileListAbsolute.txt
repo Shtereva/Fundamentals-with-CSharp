@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\Tetris\bin\Debug\Tetris.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\Tetris\obj\Debug\Tetris.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\Tetris\obj\Debug\Tetris.pdb

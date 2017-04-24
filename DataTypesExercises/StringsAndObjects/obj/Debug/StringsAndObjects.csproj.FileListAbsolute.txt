@@ -1,0 +1,5 @@
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DataTypesExercises\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DataTypesExercises\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DataTypesExercises\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DataTypesExercises\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DataTypesExercises\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

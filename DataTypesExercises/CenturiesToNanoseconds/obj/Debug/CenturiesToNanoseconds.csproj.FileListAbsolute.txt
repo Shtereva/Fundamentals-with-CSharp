@@ -1,0 +1,6 @@
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DataTypesExercises\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe.config
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DataTypesExercises\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DataTypesExercises\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.pdb
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DataTypesExercises\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DataTypesExercises\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.exe
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DataTypesExercises\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.pdb
