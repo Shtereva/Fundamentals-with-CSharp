@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.pdb

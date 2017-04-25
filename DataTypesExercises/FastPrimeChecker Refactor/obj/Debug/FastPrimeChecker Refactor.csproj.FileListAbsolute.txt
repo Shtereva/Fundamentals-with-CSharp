@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\FastPrimeChecker Refactor\bin\Debug\FastPrimeChecker Refactor.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\FastPrimeChecker Refactor\bin\Debug\FastPrimeChecker Refactor.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\FastPrimeChecker Refactor\bin\Debug\FastPrimeChecker Refactor.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\FastPrimeChecker Refactor\obj\Debug\FastPrimeChecker Refactor.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\FastPrimeChecker Refactor\obj\Debug\FastPrimeChecker Refactor.pdb

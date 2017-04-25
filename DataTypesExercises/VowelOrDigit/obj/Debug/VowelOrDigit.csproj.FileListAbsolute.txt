@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\VowelOrDigit\bin\Debug\VowelOrDigit.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\VowelOrDigit\bin\Debug\VowelOrDigit.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\VowelOrDigit\bin\Debug\VowelOrDigit.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\VowelOrDigit\obj\Debug\VowelOrDigit.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\VowelOrDigit\obj\Debug\VowelOrDigit.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\VowelOrDigit\obj\Debug\VowelOrDigit.pdb

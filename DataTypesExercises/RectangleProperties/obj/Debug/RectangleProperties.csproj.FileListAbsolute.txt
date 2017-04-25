@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\RectangleProperties\bin\Debug\RectangleProperties.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\RectangleProperties\bin\Debug\RectangleProperties.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\RectangleProperties\bin\Debug\RectangleProperties.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\RectangleProperties\obj\Debug\RectangleProperties.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\RectangleProperties\obj\Debug\RectangleProperties.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\RectangleProperties\obj\Debug\RectangleProperties.pdb

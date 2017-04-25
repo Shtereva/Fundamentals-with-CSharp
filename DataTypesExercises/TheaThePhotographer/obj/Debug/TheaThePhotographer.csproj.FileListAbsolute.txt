@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TheaThePhotographer\bin\Debug\TheaThePhotographer.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TheaThePhotographer\bin\Debug\TheaThePhotographer.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TheaThePhotographer\bin\Debug\TheaThePhotographer.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TheaThePhotographer\obj\Debug\TheaThePhotographer.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TheaThePhotographer\obj\Debug\TheaThePhotographer.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\TheaThePhotographer\obj\Debug\TheaThePhotographer.pdb

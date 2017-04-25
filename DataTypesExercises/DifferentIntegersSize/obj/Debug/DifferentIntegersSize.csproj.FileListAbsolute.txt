@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DataTypesExercises\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.pdb

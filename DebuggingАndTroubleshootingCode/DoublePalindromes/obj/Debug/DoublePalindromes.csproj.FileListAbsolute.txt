@@ -1,0 +1,6 @@
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DebuggingАndTroubleshootingCode\DoublePalindromes\bin\Debug\DoublePalindromes.exe.config
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DebuggingАndTroubleshootingCode\DoublePalindromes\bin\Debug\DoublePalindromes.exe
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DebuggingАndTroubleshootingCode\DoublePalindromes\bin\Debug\DoublePalindromes.pdb
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DebuggingАndTroubleshootingCode\DoublePalindromes\obj\Debug\DoublePalindromes.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DebuggingАndTroubleshootingCode\DoublePalindromes\obj\Debug\DoublePalindromes.exe
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\DebuggingАndTroubleshootingCode\DoublePalindromes\obj\Debug\DoublePalindromes.pdb

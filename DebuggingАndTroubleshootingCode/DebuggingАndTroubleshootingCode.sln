@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris\Tetris.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiningCoins", "MiningCoins\MiningCoins.csproj", "{08239AC1-FA8C-4166-A417-D605F01B4B16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoublePalindromes", "DoublePalindromes\DoublePalindromes.csproj", "{07C6C5EE-FF91-4F37-A007-70A0EBC5AE78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{08239AC1-FA8C-4166-A417-D605F01B4B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08239AC1-FA8C-4166-A417-D605F01B4B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08239AC1-FA8C-4166-A417-D605F01B4B16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C6C5EE-FF91-4F37-A007-70A0EBC5AE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C6C5EE-FF91-4F37-A007-70A0EBC5AE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C6C5EE-FF91-4F37-A007-70A0EBC5AE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C6C5EE-FF91-4F37-A007-70A0EBC5AE78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
