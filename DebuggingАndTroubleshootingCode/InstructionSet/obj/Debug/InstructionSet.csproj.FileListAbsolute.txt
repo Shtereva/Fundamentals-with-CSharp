@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\InstructionSet\bin\Debug\InstructionSet.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\InstructionSet\bin\Debug\InstructionSet.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\InstructionSet\bin\Debug\InstructionSet.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\InstructionSet\obj\Debug\InstructionSet.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\InstructionSet\obj\Debug\InstructionSet.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\InstructionSet\obj\Debug\InstructionSet.pdb

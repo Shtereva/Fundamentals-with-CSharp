@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\SequenceOfCommands\bin\Debug\SequenceOfCommands.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\SequenceOfCommands\bin\Debug\SequenceOfCommands.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\SequenceOfCommands\bin\Debug\SequenceOfCommands.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\SequenceOfCommands\obj\Debug\SequenceOfCommands.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\SequenceOfCommands\obj\Debug\SequenceOfCommands.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\SequenceOfCommands\obj\Debug\SequenceOfCommands.pdb

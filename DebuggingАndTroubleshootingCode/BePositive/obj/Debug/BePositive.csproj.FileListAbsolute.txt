@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\BePositive\bin\Debug\BePositive.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\BePositive\bin\Debug\BePositive.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\BePositive\bin\Debug\BePositive.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\BePositive\obj\Debug\BePositive.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\BePositive\obj\Debug\BePositive.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\BePositive\obj\Debug\BePositive.pdb
