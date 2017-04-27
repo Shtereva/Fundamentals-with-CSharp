@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\Substring\bin\Debug\Substring.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\Substring\bin\Debug\Substring.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\Substring\bin\Debug\Substring.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\Substring\obj\Debug\Substring.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\Substring\obj\Debug\Substring.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\DebuggingАndTroubleshootingCode\Substring\obj\Debug\Substring.pdb
