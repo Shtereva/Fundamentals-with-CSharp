@@ -1,1 +1,6 @@
 C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\FibonacciNumbers\obj\Debug\FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb

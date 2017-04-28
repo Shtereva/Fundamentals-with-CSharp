@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\CenterPoint\bin\Debug\CenterPoint.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\CenterPoint\bin\Debug\CenterPoint.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\CenterPoint\bin\Debug\CenterPoint.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\CenterPoint\obj\Debug\CenterPoint.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\CenterPoint\obj\Debug\CenterPoint.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\CenterPoint\obj\Debug\CenterPoint.pdb

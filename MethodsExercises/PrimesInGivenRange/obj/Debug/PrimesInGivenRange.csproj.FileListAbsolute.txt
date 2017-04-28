@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.pdb

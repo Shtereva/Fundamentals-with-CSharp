@@ -25,6 +25,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersInReversedOrder", "N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumbers", "FibonacciNumbers\FibonacciNumbers.csproj", "{217FDEE8-929B-4EF8-8159-85B397F081CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeChecker", "PrimeChecker\PrimeChecker.csproj", "{46AA4AAA-F867-4E9E-88C2-5191C6A1B2D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimesInGivenRange", "PrimesInGivenRange\PrimesInGivenRange.csproj", "{00412C08-A0E1-46ED-8DDF-F1EC0BD3E0A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenterPoint", "CenterPoint\CenterPoint.csproj", "{6E4D9948-63C5-4A24-923A-99DDAC78A363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongerLine", "LongerLine\LongerLine.csproj", "{515B754A-74A6-4B36-8367-9195CCF1EFA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +83,22 @@ Global
 		{217FDEE8-929B-4EF8-8159-85B397F081CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{217FDEE8-929B-4EF8-8159-85B397F081CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{217FDEE8-929B-4EF8-8159-85B397F081CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46AA4AAA-F867-4E9E-88C2-5191C6A1B2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46AA4AAA-F867-4E9E-88C2-5191C6A1B2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46AA4AAA-F867-4E9E-88C2-5191C6A1B2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46AA4AAA-F867-4E9E-88C2-5191C6A1B2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00412C08-A0E1-46ED-8DDF-F1EC0BD3E0A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00412C08-A0E1-46ED-8DDF-F1EC0BD3E0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00412C08-A0E1-46ED-8DDF-F1EC0BD3E0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00412C08-A0E1-46ED-8DDF-F1EC0BD3E0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E4D9948-63C5-4A24-923A-99DDAC78A363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4D9948-63C5-4A24-923A-99DDAC78A363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4D9948-63C5-4A24-923A-99DDAC78A363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4D9948-63C5-4A24-923A-99DDAC78A363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515B754A-74A6-4B36-8367-9195CCF1EFA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515B754A-74A6-4B36-8367-9195CCF1EFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515B754A-74A6-4B36-8367-9195CCF1EFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515B754A-74A6-4B36-8367-9195CCF1EFA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
