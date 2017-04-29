@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.pdb

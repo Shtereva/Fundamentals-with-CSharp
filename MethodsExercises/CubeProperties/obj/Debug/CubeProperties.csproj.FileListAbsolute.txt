@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\CubeProperties\bin\Debug\CubeProperties.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\CubeProperties\bin\Debug\CubeProperties.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\CubeProperties\bin\Debug\CubeProperties.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\CubeProperties\obj\Debug\CubeProperties.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\CubeProperties\obj\Debug\CubeProperties.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\CubeProperties\obj\Debug\CubeProperties.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\MasterNumber\bin\Debug\MasterNumber.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\MasterNumber\bin\Debug\MasterNumber.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\MasterNumber\bin\Debug\MasterNumber.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\MasterNumber\obj\Debug\MasterNumber.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\MasterNumber\obj\Debug\MasterNumber.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\MasterNumber\obj\Debug\MasterNumber.pdb

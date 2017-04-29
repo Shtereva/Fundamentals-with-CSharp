@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\GeometryCalculator\bin\Debug\GeometryCalculator.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\GeometryCalculator\bin\Debug\GeometryCalculator.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\GeometryCalculator\bin\Debug\GeometryCalculator.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\GeometryCalculator\obj\Debug\GeometryCalculator.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\MethodsExercises\GeometryCalculator\obj\Debug\GeometryCalculator.pdb
