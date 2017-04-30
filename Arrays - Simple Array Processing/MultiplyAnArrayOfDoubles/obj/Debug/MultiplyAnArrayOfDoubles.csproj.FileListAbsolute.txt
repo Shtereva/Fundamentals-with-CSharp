@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\MultiplyAnArrayOfDoubles\bin\Debug\MultiplyAnArrayOfDoubles.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\MultiplyAnArrayOfDoubles\bin\Debug\MultiplyAnArrayOfDoubles.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\MultiplyAnArrayOfDoubles\bin\Debug\MultiplyAnArrayOfDoubles.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\MultiplyAnArrayOfDoubles\obj\Debug\MultiplyAnArrayOfDoubles.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\MultiplyAnArrayOfDoubles\obj\Debug\MultiplyAnArrayOfDoubles.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\MultiplyAnArrayOfDoubles\obj\Debug\MultiplyAnArrayOfDoubles.pdb

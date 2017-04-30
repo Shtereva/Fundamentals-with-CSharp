@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SmallestElementInArray\bin\Debug\SmallestElementInArray.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SmallestElementInArray\bin\Debug\SmallestElementInArray.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SmallestElementInArray\bin\Debug\SmallestElementInArray.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SmallestElementInArray\obj\Debug\SmallestElementInArray.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SmallestElementInArray\obj\Debug\SmallestElementInArray.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SmallestElementInArray\obj\Debug\SmallestElementInArray.pdb

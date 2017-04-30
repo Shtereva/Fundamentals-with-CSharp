@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.pdb

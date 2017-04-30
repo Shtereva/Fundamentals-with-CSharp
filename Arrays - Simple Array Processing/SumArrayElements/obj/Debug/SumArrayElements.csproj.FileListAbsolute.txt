@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SumArrayElements\bin\Debug\SumArrayElements.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SumArrayElements\bin\Debug\SumArrayElements.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SumArrayElements\bin\Debug\SumArrayElements.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SumArrayElements\obj\Debug\SumArrayElements.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SumArrayElements\obj\Debug\SumArrayElements.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SumArrayElements\obj\Debug\SumArrayElements.pdb
