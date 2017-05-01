@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ArrayElementsEqualToTheirIndex\bin\Debug\ArrayElementsEqualToTheirIndex.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ArrayElementsEqualToTheirIndex\bin\Debug\ArrayElementsEqualToTheirIndex.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ArrayElementsEqualToTheirIndex\bin\Debug\ArrayElementsEqualToTheirIndex.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ArrayElementsEqualToTheirIndex\obj\Debug\ArrayElementsEqualToTheirIndex.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ArrayElementsEqualToTheirIndex\obj\Debug\ArrayElementsEqualToTheirIndex.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CountOfOddNumbersInArray\bin\Debug\CountOfOddNumbersInArray.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CountOfOddNumbersInArray\bin\Debug\CountOfOddNumbersInArray.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CountOfOddNumbersInArray\bin\Debug\CountOfOddNumbersInArray.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CountOfOddNumbersInArray\obj\Debug\CountOfOddNumbersInArray.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CountOfOddNumbersInArray\obj\Debug\CountOfOddNumbersInArray.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CountOfOddNumbersInArray\obj\Debug\CountOfOddNumbersInArray.pdb

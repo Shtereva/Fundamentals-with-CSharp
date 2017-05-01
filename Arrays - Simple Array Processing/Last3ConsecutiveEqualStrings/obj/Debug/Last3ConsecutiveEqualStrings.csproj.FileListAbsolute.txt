@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\Last3ConsecutiveEqualStrings\bin\Debug\Last3ConsecutiveEqualStrings.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\Last3ConsecutiveEqualStrings\bin\Debug\Last3ConsecutiveEqualStrings.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\Last3ConsecutiveEqualStrings\bin\Debug\Last3ConsecutiveEqualStrings.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\Last3ConsecutiveEqualStrings\obj\Debug\Last3ConsecutiveEqualStrings.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\Last3ConsecutiveEqualStrings\obj\Debug\Last3ConsecutiveEqualStrings.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\Last3ConsecutiveEqualStrings\obj\Debug\Last3ConsecutiveEqualStrings.pdb
