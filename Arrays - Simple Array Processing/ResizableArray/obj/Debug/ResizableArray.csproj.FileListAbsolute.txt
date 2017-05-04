@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ResizableArray\bin\Debug\ResizableArray.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ResizableArray\bin\Debug\ResizableArray.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ResizableArray\bin\Debug\ResizableArray.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ResizableArray\obj\Debug\ResizableArray.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ResizableArray\obj\Debug\ResizableArray.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ResizableArray\obj\Debug\ResizableArray.csprojResolveAssemblyReference.cache
