@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\IncreasingSequenceOfElements\bin\Debug\IncreasingSequenceOfElements.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\IncreasingSequenceOfElements\bin\Debug\IncreasingSequenceOfElements.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\IncreasingSequenceOfElements\bin\Debug\IncreasingSequenceOfElements.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\IncreasingSequenceOfElements\obj\Debug\IncreasingSequenceOfElements.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\IncreasingSequenceOfElements\obj\Debug\IncreasingSequenceOfElements.pdb

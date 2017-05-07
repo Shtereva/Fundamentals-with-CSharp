@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\LastKNumbersSumsSequence\bin\Debug\LastKNumbersSumsSequence.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\LastKNumbersSumsSequence\bin\Debug\LastKNumbersSumsSequence.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\LastKNumbersSumsSequence\bin\Debug\LastKNumbersSumsSequence.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\LastKNumbersSumsSequence\obj\Debug\LastKNumbersSumsSequence.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\LastKNumbersSumsSequence\obj\Debug\LastKNumbersSumsSequence.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\LastKNumbersSumsSequence\obj\Debug\LastKNumbersSumsSequence.pdb

@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\EqualSequenceOfElementsInArray\bin\Debug\EqualSequenceOfElementsInArray.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\EqualSequenceOfElementsInArray\bin\Debug\EqualSequenceOfElementsInArray.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\EqualSequenceOfElementsInArray\bin\Debug\EqualSequenceOfElementsInArray.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\EqualSequenceOfElementsInArray\obj\Debug\EqualSequenceOfElementsInArray.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\EqualSequenceOfElementsInArray\obj\Debug\EqualSequenceOfElementsInArray.pdb

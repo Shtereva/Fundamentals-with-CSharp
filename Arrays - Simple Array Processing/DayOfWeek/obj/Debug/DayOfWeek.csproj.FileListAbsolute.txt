@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\DayOfWeek\obj\Debug\DayOfWeek.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\DayOfWeek\obj\Debug\DayOfWeek.pdb

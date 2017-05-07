@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ExtractMiddleElements\bin\Debug\ExtractMiddleElements.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ExtractMiddleElements\bin\Debug\ExtractMiddleElements.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ExtractMiddleElements\bin\Debug\ExtractMiddleElements.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ExtractMiddleElements\obj\Debug\ExtractMiddleElements.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ExtractMiddleElements\obj\Debug\ExtractMiddleElements.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ExtractMiddleElements\obj\Debug\ExtractMiddleElements.pdb

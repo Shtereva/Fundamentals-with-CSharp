@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\BallisticsTraining\bin\Debug\BallisticsTraining.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\BallisticsTraining\bin\Debug\BallisticsTraining.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\BallisticsTraining\bin\Debug\BallisticsTraining.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\BallisticsTraining\obj\Debug\BallisticsTraining.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\BallisticsTraining\obj\Debug\BallisticsTraining.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\BallisticsTraining\obj\Debug\BallisticsTraining.pdb

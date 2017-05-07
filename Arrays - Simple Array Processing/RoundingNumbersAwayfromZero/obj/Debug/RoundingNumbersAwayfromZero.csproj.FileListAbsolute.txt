@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\RoundingNumbersAwayfromZero\bin\Debug\RoundingNumbersAwayfromZero.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\RoundingNumbersAwayfromZero\bin\Debug\RoundingNumbersAwayfromZero.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\RoundingNumbersAwayfromZero\bin\Debug\RoundingNumbersAwayfromZero.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\RoundingNumbersAwayfromZero\obj\Debug\RoundingNumbersAwayfromZero.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\RoundingNumbersAwayfromZero\obj\Debug\RoundingNumbersAwayfromZero.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\RoundingNumbersAwayfromZero\obj\Debug\RoundingNumbersAwayfromZero.pdb

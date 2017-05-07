@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ArraySymmetry\bin\Debug\ArraySymmetry.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ArraySymmetry\bin\Debug\ArraySymmetry.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ArraySymmetry\bin\Debug\ArraySymmetry.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ArraySymmetry\obj\Debug\ArraySymmetry.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ArraySymmetry\obj\Debug\ArraySymmetry.pdb

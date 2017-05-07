@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CondenseArrayToNumber\obj\Debug\CondenseArrayToNumber.pdb

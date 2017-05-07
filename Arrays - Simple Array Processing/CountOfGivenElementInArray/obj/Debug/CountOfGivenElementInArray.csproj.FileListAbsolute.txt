@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CountOfGivenElementInArray\bin\Debug\CountOfGivenElementInArray.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CountOfGivenElementInArray\bin\Debug\CountOfGivenElementInArray.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CountOfGivenElementInArray\bin\Debug\CountOfGivenElementInArray.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CountOfGivenElementInArray\obj\Debug\CountOfGivenElementInArray.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CountOfGivenElementInArray\obj\Debug\CountOfGivenElementInArray.pdb

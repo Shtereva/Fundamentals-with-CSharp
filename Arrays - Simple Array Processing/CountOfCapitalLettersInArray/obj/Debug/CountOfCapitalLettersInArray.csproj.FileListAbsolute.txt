@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CountOfCapitalLettersInArray\bin\Debug\CountOfCapitalLettersInArray.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CountOfCapitalLettersInArray\bin\Debug\CountOfCapitalLettersInArray.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CountOfCapitalLettersInArray\bin\Debug\CountOfCapitalLettersInArray.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CountOfCapitalLettersInArray\obj\Debug\CountOfCapitalLettersInArray.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\CountOfCapitalLettersInArray\obj\Debug\CountOfCapitalLettersInArray.pdb

@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ReverseAnArrayOfStrings\bin\Debug\ReverseAnArrayOfStrings.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ReverseAnArrayOfStrings\bin\Debug\ReverseAnArrayOfStrings.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ReverseAnArrayOfStrings\bin\Debug\ReverseAnArrayOfStrings.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ReverseAnArrayOfStrings\obj\Debug\ReverseAnArrayOfStrings.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\ReverseAnArrayOfStrings\obj\Debug\ReverseAnArrayOfStrings.pdb
