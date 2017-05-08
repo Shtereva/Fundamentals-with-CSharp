@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csprojResolveAssemblyReference.cache
