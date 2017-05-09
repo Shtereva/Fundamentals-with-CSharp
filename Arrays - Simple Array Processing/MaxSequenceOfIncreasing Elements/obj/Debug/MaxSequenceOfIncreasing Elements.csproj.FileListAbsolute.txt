@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\MaxSequenceOfIncreasing Elements\bin\Debug\MaxSequenceOfIncreasing Elements.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\MaxSequenceOfIncreasing Elements\bin\Debug\MaxSequenceOfIncreasing Elements.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\MaxSequenceOfIncreasing Elements\bin\Debug\MaxSequenceOfIncreasing Elements.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\MaxSequenceOfIncreasing Elements\obj\Debug\MaxSequenceOfIncreasing Elements.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\MaxSequenceOfIncreasing Elements\obj\Debug\MaxSequenceOfIncreasing Elements.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\MaxSequenceOfIncreasing Elements\obj\Debug\MaxSequenceOfIncreasing Elements.pdb

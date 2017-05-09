@@ -7,25 +7,36 @@ namespace SieveOfEratosthenes
     {
         static void Main()
         {
-            int inputNumber = int.Parse(Console.ReadLine());
-            var array = new bool[inputNumber];
+            long inputNumber = long.Parse(Console.ReadLine());
+            var array = new bool[inputNumber + 1];
             array[0] = false;
             array[1] = false;
-            int smallestPrime = 2;
 
-            for (int i = 2; i < array.Length; i++)
+            for (long i = 2; i < array.Length; i++)
             {
                array[i] = true; 
-                if (i == smallestPrime) { Console.WriteLine(smallestPrime); }
             }
 
-            for (int i = 2; i < array.Length; i++)
+            for (long i = 2; i <= Math.Sqrt(inputNumber); i++)
             {
-                if (i == smallestPrime * smallestPrime)
+                if (array[i])
                 {
-                    array[i] = false;
+                    for (long j = i * i; j <= inputNumber; j += i)
+                    {
+                        array[j] = false;
+                    }
                 }
             }
+
+            for (long i = 0; i < array.Length; i++)
+            {
+                if (array[i] == true)
+                {
+                    Console.Write(i);
+                    Console.Write(" ");
+                }
+            }
+            Console.WriteLine();
         }
     }
 }
