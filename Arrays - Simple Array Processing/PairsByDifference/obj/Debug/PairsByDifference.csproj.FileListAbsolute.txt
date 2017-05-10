@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\PairsByDifference\bin\Debug\PairsByDifference.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\PairsByDifference\bin\Debug\PairsByDifference.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\PairsByDifference\bin\Debug\PairsByDifference.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\PairsByDifference\obj\Debug\PairsByDifference.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\PairsByDifference\obj\Debug\PairsByDifference.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\PairsByDifference\obj\Debug\PairsByDifference.pdb

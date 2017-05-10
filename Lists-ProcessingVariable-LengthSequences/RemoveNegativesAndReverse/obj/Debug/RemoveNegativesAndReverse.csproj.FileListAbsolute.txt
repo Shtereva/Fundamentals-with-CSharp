@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.pdb

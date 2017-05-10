@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\EqualSums\bin\Debug\EqualSums.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\EqualSums\bin\Debug\EqualSums.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\EqualSums\bin\Debug\EqualSums.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\EqualSums\obj\Debug\EqualSums.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Arrays - Simple Array Processing\EqualSums\obj\Debug\EqualSums.pdb
