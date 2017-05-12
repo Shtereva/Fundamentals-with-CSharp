@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SplitByWordCasing\bin\Debug\SplitByWordCasing.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SplitByWordCasing\obj\Debug\SplitByWordCasing.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SplitByWordCasing\obj\Debug\SplitByWordCasing.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SplitByWordCasing\obj\Debug\SplitByWordCasing.pdb

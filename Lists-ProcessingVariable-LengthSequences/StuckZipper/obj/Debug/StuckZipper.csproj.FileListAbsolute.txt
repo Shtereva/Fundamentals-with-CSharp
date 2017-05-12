@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\StuckZipper\bin\Debug\StuckZipper.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\StuckZipper\bin\Debug\StuckZipper.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\StuckZipper\bin\Debug\StuckZipper.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\StuckZipper\obj\Debug\StuckZipper.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\StuckZipper\obj\Debug\StuckZipper.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\StuckZipper\obj\Debug\StuckZipper.pdb

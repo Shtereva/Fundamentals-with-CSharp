@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ConsoleApplication1\obj\Debug\CountNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\AppendLists\bin\Debug\AppendLists.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\AppendLists\bin\Debug\AppendLists.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\AppendLists\bin\Debug\AppendLists.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\AppendLists\obj\Debug\AppendLists.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\AppendLists\obj\Debug\AppendLists.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\AppendLists\obj\Debug\AppendLists.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\RemoveElementsAtOddPositions\bin\Debug\RemoveElementsAtOddPositions.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\RemoveElementsAtOddPositions\bin\Debug\RemoveElementsAtOddPositions.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\RemoveElementsAtOddPositions\bin\Debug\RemoveElementsAtOddPositions.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\RemoveElementsAtOddPositions\obj\Debug\RemoveElementsAtOddPositions.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\RemoveElementsAtOddPositions\obj\Debug\RemoveElementsAtOddPositions.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\RemoveElementsAtOddPositions\obj\Debug\RemoveElementsAtOddPositions.pdb

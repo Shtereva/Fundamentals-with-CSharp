@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\FlipListSides\bin\Debug\FlipListSides.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\FlipListSides\bin\Debug\FlipListSides.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\FlipListSides\bin\Debug\FlipListSides.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\FlipListSides\obj\Debug\FlipListSides.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\FlipListSides\obj\Debug\FlipListSides.pdb

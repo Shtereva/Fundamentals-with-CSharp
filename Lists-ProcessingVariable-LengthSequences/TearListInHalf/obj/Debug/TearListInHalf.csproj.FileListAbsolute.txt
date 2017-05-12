@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\TearListInHalf\bin\Debug\TearListInHalf.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\TearListInHalf\bin\Debug\TearListInHalf.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\TearListInHalf\bin\Debug\TearListInHalf.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\TearListInHalf\obj\Debug\TearListInHalf.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\TearListInHalf\obj\Debug\TearListInHalf.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\TearListInHalf\obj\Debug\TearListInHalf.csprojResolveAssemblyReference.cache

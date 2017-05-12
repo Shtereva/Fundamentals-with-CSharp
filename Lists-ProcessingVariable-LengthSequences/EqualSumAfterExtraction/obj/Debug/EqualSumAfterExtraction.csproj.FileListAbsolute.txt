@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\EqualSumAfterExtraction\bin\Debug\EqualSumAfterExtraction.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\EqualSumAfterExtraction\bin\Debug\EqualSumAfterExtraction.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\EqualSumAfterExtraction\bin\Debug\EqualSumAfterExtraction.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\EqualSumAfterExtraction\obj\Debug\EqualSumAfterExtraction.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\EqualSumAfterExtraction\obj\Debug\EqualSumAfterExtraction.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\EqualSumAfterExtraction\obj\Debug\EqualSumAfterExtraction.pdb
