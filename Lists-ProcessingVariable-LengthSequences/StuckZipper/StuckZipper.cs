@@ -14,16 +14,28 @@ namespace StuckZipper
             int count2 = int.MaxValue;
             CountElementsLenght(listOne, listTwo, ref count1, ref count2);
             int smallestElement = Math.Min(count1, count2);
-            RemovingLargerElements(listOne, listTwo, count1, count2);
-            bool a = listOne.
+            RemovingLargerElements(listOne, listTwo, smallestElement);
+            MergingLists(listOne, listTwo);
+            Console.WriteLine(string.Join(" ", listTwo));
         }
 
-        private static void RemovingLargerElements(List<int> listOne, List<int> listTwo, int count1, int count2)
+        private static void MergingLists(List<int> listOne, List<int> listTwo)
+        {
+            int index = 1;
+            for (int i = 0; i < listOne.Count; i++)
+            {
+                listTwo.Insert(index, listOne[i]);
+                index += 2;
+                if (index > listTwo.Count) { index--; }
+            }
+        }
+
+        private static void RemovingLargerElements(List<int> listOne, List<int> listTwo, int smallestElement)
         {
             for (int i = 0; i < listOne.Count; i++)
             {
                 int element = Math.Abs(listOne[i]);
-                if (element.ToString().Length > count1)
+                if (element.ToString().Length > smallestElement)
                 {
                     listOne.Remove(listOne[i]);
                     i--;
@@ -33,7 +45,7 @@ namespace StuckZipper
             for (int i = 0; i < listTwo.Count; i++)
             {
                 int element = Math.Abs(listTwo[i]);
-                if (element.ToString().Length > count2)
+                if (element.ToString().Length > smallestElement)
                 {
                     listTwo.Remove(listTwo[i]);
                     i--;

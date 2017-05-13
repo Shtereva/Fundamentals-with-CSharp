@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\IntegerInsertion\bin\Debug\IntegerInsertion.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\IntegerInsertion\bin\Debug\IntegerInsertion.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\IntegerInsertion\bin\Debug\IntegerInsertion.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\IntegerInsertion\obj\Debug\IntegerInsertion.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\IntegerInsertion\obj\Debug\IntegerInsertion.pdb
