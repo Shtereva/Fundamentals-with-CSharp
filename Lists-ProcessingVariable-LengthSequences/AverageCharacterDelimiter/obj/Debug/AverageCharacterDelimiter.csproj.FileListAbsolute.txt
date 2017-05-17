@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\AverageCharacterDelimiter\bin\Debug\AverageCharacterDelimiter.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\AverageCharacterDelimiter\bin\Debug\AverageCharacterDelimiter.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\AverageCharacterDelimiter\bin\Debug\AverageCharacterDelimiter.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\AverageCharacterDelimiter\obj\Debug\AverageCharacterDelimiter.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\AverageCharacterDelimiter\obj\Debug\AverageCharacterDelimiter.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\AverageCharacterDelimiter\obj\Debug\AverageCharacterDelimiter.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ArrayContainsElement\bin\Debug\ArrayContainsElement.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ArrayContainsElement\bin\Debug\ArrayContainsElement.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ArrayContainsElement\bin\Debug\ArrayContainsElement.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ArrayContainsElement\obj\Debug\ArrayContainsElement.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ArrayContainsElement\obj\Debug\ArrayContainsElement.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ArrayContainsElement\obj\Debug\ArrayContainsElement.pdb

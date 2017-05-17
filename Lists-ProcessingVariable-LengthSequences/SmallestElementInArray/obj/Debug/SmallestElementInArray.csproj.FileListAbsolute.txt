@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SmallestElementInArray\bin\Debug\SmallestElementInArray.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SmallestElementInArray\bin\Debug\SmallestElementInArray.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SmallestElementInArray\bin\Debug\SmallestElementInArray.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SmallestElementInArray\obj\Debug\SmallestElementInArray.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SmallestElementInArray\obj\Debug\SmallestElementInArray.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SortArrayOfStrings\obj\Debug\SortArrayOfStrings.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SortArrayOfStrings\obj\Debug\SortArrayOfStrings.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SortArrayOfStrings\obj\Debug\SortArrayOfStrings.pdb

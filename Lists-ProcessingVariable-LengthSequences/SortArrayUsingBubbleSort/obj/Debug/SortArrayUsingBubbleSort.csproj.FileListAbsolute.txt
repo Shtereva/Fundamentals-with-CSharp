@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SortArrayUsingBubbleSort\bin\Debug\SortArrayUsingBubbleSort.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SortArrayUsingBubbleSort\bin\Debug\SortArrayUsingBubbleSort.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SortArrayUsingBubbleSort\bin\Debug\SortArrayUsingBubbleSort.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SortArrayUsingBubbleSort\obj\Debug\SortArrayUsingBubbleSort.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SortArrayUsingBubbleSort\obj\Debug\SortArrayUsingBubbleSort.pdb

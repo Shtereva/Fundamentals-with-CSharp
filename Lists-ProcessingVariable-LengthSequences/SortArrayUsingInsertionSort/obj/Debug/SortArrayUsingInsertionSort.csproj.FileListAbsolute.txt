@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SortArrayUsingInsertionSort\bin\Debug\SortArrayUsingInsertionSort.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SortArrayUsingInsertionSort\bin\Debug\SortArrayUsingInsertionSort.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SortArrayUsingInsertionSort\bin\Debug\SortArrayUsingInsertionSort.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SortArrayUsingInsertionSort\obj\Debug\SortArrayUsingInsertionSort.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\SortArrayUsingInsertionSort\obj\Debug\SortArrayUsingInsertionSort.pdb
