@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ArrayHistogram\bin\Debug\ArrayHistogram.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ArrayHistogram\obj\Debug\ArrayHistogram.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ArrayHistogram\bin\Debug\ArrayHistogram.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ArrayHistogram\bin\Debug\ArrayHistogram.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ArrayHistogram\obj\Debug\ArrayHistogram.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ArrayHistogram\obj\Debug\ArrayHistogram.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\DecodeRadioFrequencies\bin\Debug\DecodeRadioFrequencies.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\DecodeRadioFrequencies\bin\Debug\DecodeRadioFrequencies.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\DecodeRadioFrequencies\bin\Debug\DecodeRadioFrequencies.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\DecodeRadioFrequencies\obj\Debug\DecodeRadioFrequencies.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\DecodeRadioFrequencies\obj\Debug\DecodeRadioFrequencies.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\DecodeRadioFrequencies\obj\Debug\DecodeRadioFrequencies.pdb
