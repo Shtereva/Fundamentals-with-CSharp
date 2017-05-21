@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitHole", "RabbitHole\Ra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JapaneseRoulette", "JapaneseRoulette\JapaneseRoulette.csproj", "{22687250-D570-4E15-BFF5-E18AD60D339E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication3", "ConsoleApplication3\ConsoleApplication3.csproj", "{AC14F1A3-4489-4CA7-9824-B00A481963C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{22687250-D570-4E15-BFF5-E18AD60D339E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22687250-D570-4E15-BFF5-E18AD60D339E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22687250-D570-4E15-BFF5-E18AD60D339E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC14F1A3-4489-4CA7-9824-B00A481963C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC14F1A3-4489-4CA7-9824-B00A481963C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC14F1A3-4489-4CA7-9824-B00A481963C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC14F1A3-4489-4CA7-9824-B00A481963C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

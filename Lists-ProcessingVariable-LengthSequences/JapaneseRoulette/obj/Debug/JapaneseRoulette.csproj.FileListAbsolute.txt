@@ -1,1 +1,6 @@
 C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\JapaneseRoulette\bin\Debug\JapaneseRoulette.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\JapaneseRoulette\bin\Debug\JapaneseRoulette.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\JapaneseRoulette\bin\Debug\JapaneseRoulette.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\JapaneseRoulette\obj\Debug\JapaneseRoulette.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\JapaneseRoulette\obj\Debug\JapaneseRoulette.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\JapaneseRoulette\obj\Debug\JapaneseRoulette.pdb
