@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\IncreasingCrisis\bin\Debug\IncreasingCrisis.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\IncreasingCrisis\bin\Debug\IncreasingCrisis.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\IncreasingCrisis\bin\Debug\IncreasingCrisis.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\IncreasingCrisis\obj\Debug\IncreasingCrisis.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\IncreasingCrisis\obj\Debug\IncreasingCrisis.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\IncreasingCrisis\obj\Debug\IncreasingCrisis.pdb
