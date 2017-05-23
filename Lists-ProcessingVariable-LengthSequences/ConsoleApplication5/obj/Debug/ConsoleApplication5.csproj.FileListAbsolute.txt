@@ -1,0 +1,5 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

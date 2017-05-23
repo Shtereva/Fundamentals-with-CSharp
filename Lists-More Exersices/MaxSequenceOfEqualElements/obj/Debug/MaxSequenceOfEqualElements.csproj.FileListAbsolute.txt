@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.pdb
