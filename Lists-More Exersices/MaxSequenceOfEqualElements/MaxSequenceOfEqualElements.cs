@@ -9,41 +9,46 @@ namespace MaxSequenceOfEqualElements
         static void Main()
         {
             var numbers = Console.ReadLine().Split().Select(int.Parse).ToList();
-            numbers.Sort();
-            int start = 0;
             int lenght = 1;
 
             int bestStart = 0;
             int bestLenght = 1;
-            ProcesList(numbers, ref start, ref lenght, ref bestStart, ref bestLenght);
+            ProcesList(numbers, ref lenght, ref bestStart, ref bestLenght);
 
-            for (int i = bestStart; i <= numbers.Count - bestLenght; i++)
+            for (int i = bestStart; i < bestStart + bestLenght; i++)
             {
                 Console.Write(numbers[i] + " ");
             }
+            Console.WriteLine();
 
         }
 
-        private static void ProcesList(List<int> numbers, ref int start, ref int lenght, ref int bestStart, ref int bestLenght)
+        private static void ProcesList(List<int> numbers, ref int lenght, ref int bestStart, ref int bestLenght)
         {
-            for (int i = 0; i < numbers.Count - 1; i++)
+            int currentIndex = 0;
+;            for (int i = 0; i < numbers.Count - 1; i++)
             {
                 if (numbers[i].Equals(numbers[i + 1]))
                 {
                     lenght++;
-                    start = i;
                 }
 
                 else
                 {
-                    if (bestLenght < lenght)
+                    if (bestLenght < lenght )
                     {
                         bestLenght = lenght;
-                        bestStart = start;
+                        bestStart = i - bestLenght + 1;
                     }
                     lenght = 1;
-                    start = 0;
                 }
+                currentIndex = i + 1;
+            }
+
+            if (bestLenght < lenght )
+            {
+                bestLenght = lenght;
+                bestStart = currentIndex - bestLenght + 1;
             }
         }
     }
