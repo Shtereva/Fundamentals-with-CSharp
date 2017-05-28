@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\04. Sum Reversed Numbers\bin\Debug\_04.Sum_Reversed_Numbers.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\04. Sum Reversed Numbers\bin\Debug\_04.Sum_Reversed_Numbers.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\04. Sum Reversed Numbers\bin\Debug\_04.Sum_Reversed_Numbers.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\04. Sum Reversed Numbers\obj\Debug\04. Sum Reversed Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\04. Sum Reversed Numbers\obj\Debug\_04.Sum_Reversed_Numbers.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\04. Sum Reversed Numbers\obj\Debug\_04.Sum_Reversed_Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\05. Bomb Numbers\bin\Debug\_05.Bomb_Numbers.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\05. Bomb Numbers\bin\Debug\_05.Bomb_Numbers.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\05. Bomb Numbers\bin\Debug\_05.Bomb_Numbers.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\05. Bomb Numbers\obj\Debug\05. Bomb Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\05. Bomb Numbers\obj\Debug\_05.Bomb_Numbers.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Lists-More Exersices\05. Bomb Numbers\obj\Debug\_05.Bomb_Numbers.pdb
