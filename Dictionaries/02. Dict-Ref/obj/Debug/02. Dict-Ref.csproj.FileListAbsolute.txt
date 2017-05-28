@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Dictionaries\02. Dict-Ref\bin\Debug\_02.Dict_Ref.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Dictionaries\02. Dict-Ref\bin\Debug\_02.Dict_Ref.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Dictionaries\02. Dict-Ref\bin\Debug\_02.Dict_Ref.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Dictionaries\02. Dict-Ref\obj\Debug\_02.Dict_Ref.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Dictionaries\02. Dict-Ref\obj\Debug\_02.Dict_Ref.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Dictionaries\02. Dict-Ref\obj\Debug\02. Dict-Ref.csprojResolveAssemblyReference.cache
