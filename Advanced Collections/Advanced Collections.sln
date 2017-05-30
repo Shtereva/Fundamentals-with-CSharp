@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Average Student Grades", "ConsoleApplication1\01. Average Student Grades.csproj", "{8D6D932C-42AA-4C88-A770-7BCF8561943C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Cities by Continent and Country", "ConsoleApplication2\02. Cities by Continent and Country.csproj", "{25EA9700-6272-404C-B75B-75EA1601A976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D6D932C-42AA-4C88-A770-7BCF8561943C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6D932C-42AA-4C88-A770-7BCF8561943C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6D932C-42AA-4C88-A770-7BCF8561943C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6D932C-42AA-4C88-A770-7BCF8561943C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25EA9700-6272-404C-B75B-75EA1601A976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25EA9700-6272-404C-B75B-75EA1601A976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25EA9700-6272-404C-B75B-75EA1601A976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25EA9700-6272-404C-B75B-75EA1601A976}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

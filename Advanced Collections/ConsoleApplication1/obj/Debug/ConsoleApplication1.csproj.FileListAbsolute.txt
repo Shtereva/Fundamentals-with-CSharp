@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Advanced Collections\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Advanced Collections\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Advanced Collections\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Advanced Collections\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\Advanced Collections\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Advanced Collections\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,6 @@
+c:\users\kimi\documents\visual studio 2015\Projects\Advanced Collections\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\kimi\documents\visual studio 2015\Projects\Advanced Collections\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Advanced Collections\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\kimi\documents\visual studio 2015\Projects\Advanced Collections\ConsoleApplication2\obj\Debug\02. Cities by Continent and Country.csprojResolveAssemblyReference.cache
+c:\users\kimi\documents\visual studio 2015\Projects\Advanced Collections\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\kimi\documents\visual studio 2015\Projects\Advanced Collections\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
