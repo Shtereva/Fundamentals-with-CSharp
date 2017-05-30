@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Dictionaries\05. User Logins\bin\Debug\_05.User_Logins.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Dictionaries\05. User Logins\bin\Debug\_05.User_Logins.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Dictionaries\05. User Logins\bin\Debug\_05.User_Logins.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Dictionaries\05. User Logins\obj\Debug\05. User Logins.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Dictionaries\05. User Logins\obj\Debug\_05.User_Logins.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Dictionaries\05. User Logins\obj\Debug\_05.User_Logins.pdb

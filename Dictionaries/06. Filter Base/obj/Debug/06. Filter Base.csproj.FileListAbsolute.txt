@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Dictionaries\06. Filter Base\bin\Debug\_06.Filter_Base.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Dictionaries\06. Filter Base\bin\Debug\_06.Filter_Base.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Dictionaries\06. Filter Base\bin\Debug\_06.Filter_Base.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Dictionaries\06. Filter Base\obj\Debug\06. Filter Base.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Dictionaries\06. Filter Base\obj\Debug\_06.Filter_Base.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Dictionaries\06. Filter Base\obj\Debug\_06.Filter_Base.pdb
