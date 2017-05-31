@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\04. Group Continents, Countries and Cities\bin\Debug\_04.Group_Continents__Countries_and_Cities.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\04. Group Continents, Countries and Cities\bin\Debug\_04.Group_Continents__Countries_and_Cities.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\04. Group Continents, Countries and Cities\bin\Debug\_04.Group_Continents__Countries_and_Cities.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\04. Group Continents, Countries and Cities\obj\Debug\04. Group Continents, Countries and Cities.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\04. Group Continents, Countries and Cities\obj\Debug\_04.Group_Continents__Countries_and_Cities.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\04. Group Continents, Countries and Cities\obj\Debug\_04.Group_Continents__Countries_and_Cities.pdb
