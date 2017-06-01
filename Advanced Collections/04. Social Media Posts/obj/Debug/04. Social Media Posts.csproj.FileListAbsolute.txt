@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\04. Social Media Posts\bin\Debug\_04.Social_Media_Posts.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\04. Social Media Posts\bin\Debug\_04.Social_Media_Posts.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\04. Social Media Posts\bin\Debug\_04.Social_Media_Posts.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\04. Social Media Posts\obj\Debug\04. Social Media Posts.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\04. Social Media Posts\obj\Debug\_04.Social_Media_Posts.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\04. Social Media Posts\obj\Debug\_04.Social_Media_Posts.pdb

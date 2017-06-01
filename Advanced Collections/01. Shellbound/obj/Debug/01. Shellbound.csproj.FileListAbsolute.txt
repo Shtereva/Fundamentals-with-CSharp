@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\01. Shellbound\bin\Debug\_01.Shellbound.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\01. Shellbound\bin\Debug\_01.Shellbound.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\01. Shellbound\bin\Debug\_01.Shellbound.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\01. Shellbound\obj\Debug\01. Shellbound.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\01. Shellbound\obj\Debug\_01.Shellbound.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\01. Shellbound\obj\Debug\_01.Shellbound.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\03. Forum Topics\bin\Debug\_03.Forum_Topics.exe.config
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\03. Forum Topics\bin\Debug\_03.Forum_Topics.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\03. Forum Topics\bin\Debug\_03.Forum_Topics.pdb
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\03. Forum Topics\obj\Debug\03. Forum Topics.csprojResolveAssemblyReference.cache
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\03. Forum Topics\obj\Debug\_03.Forum_Topics.exe
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\03. Forum Topics\obj\Debug\_03.Forum_Topics.pdb

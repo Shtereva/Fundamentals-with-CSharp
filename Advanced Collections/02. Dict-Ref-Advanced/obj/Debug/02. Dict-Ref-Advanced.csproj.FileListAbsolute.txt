@@ -1,0 +1,6 @@
+C:\Users\Kimi\documents\visual studio 2015\Projects\Advanced Collections\02. Dict-Ref-Advanced\bin\Debug\_02.Dict_Ref_Advanced.exe.config
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\Advanced Collections\02. Dict-Ref-Advanced\bin\Debug\_02.Dict_Ref_Advanced.exe
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\Advanced Collections\02. Dict-Ref-Advanced\bin\Debug\_02.Dict_Ref_Advanced.pdb
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\Advanced Collections\02. Dict-Ref-Advanced\obj\Debug\_02.Dict_Ref_Advanced.exe
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\Advanced Collections\02. Dict-Ref-Advanced\obj\Debug\_02.Dict_Ref_Advanced.pdb
+C:\Users\Kimi\Documents\Visual Studio 2015\Projects\Advanced Collections\02. Dict-Ref-Advanced\obj\Debug\02. Dict-Ref-Advanced.csprojResolveAssemblyReference.cache
