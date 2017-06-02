@@ -56,9 +56,20 @@ class SocialMediaPosts
         else if (command == "comment")
         {
             string commentatorName = commands[2];
-            string content = commands[3];
+            string content = string.Empty;
+            content = CollectContent(commands, content);
             socialMedia[postName][command].Add($"*  {commentatorName}: {content}");
         }
+    }
+
+    private static string CollectContent(string[] commands, string content)
+    {
+        for (int i = 3; i < commands.Length; i++)
+        {
+            content += commands[i] + " ";
+        }
+        content.Trim();
+        return content;
     }
 
     private static void CreatingSocialMediaButtons(Dictionary<string, Dictionary<string, List<string>>> socialMedia, string postName)
