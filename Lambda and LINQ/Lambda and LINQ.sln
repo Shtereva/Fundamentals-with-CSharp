@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.  CottageScraper", "04. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Lambada Expressions", "01. Lambada Expressions\01. Lambada Expressions.csproj", "{6212FE1E-90DF-454F-8366-CCF7C417B7CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Ordered Banking System", "02. Ordered Banking System\02. Ordered Banking System.csproj", "{64EA18C7-C2DD-4103-A252-5CDD0ED037D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{6212FE1E-90DF-454F-8366-CCF7C417B7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6212FE1E-90DF-454F-8366-CCF7C417B7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6212FE1E-90DF-454F-8366-CCF7C417B7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64EA18C7-C2DD-4103-A252-5CDD0ED037D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64EA18C7-C2DD-4103-A252-5CDD0ED037D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64EA18C7-C2DD-4103-A252-5CDD0ED037D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64EA18C7-C2DD-4103-A252-5CDD0ED037D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
