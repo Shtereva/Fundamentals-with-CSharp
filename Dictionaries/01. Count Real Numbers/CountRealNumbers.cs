@@ -22,7 +22,6 @@ namespace _01.Count_Real_Numbers
 
                 ocurrences[word]++;
             }
-
             words.Clear();
 
             foreach (var kvp in ocurrences)
