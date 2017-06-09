@@ -21,6 +21,11 @@ class AMinerTask
             input = Console.ReadLine();
         }
 
+        emails = emails
+            .Where(x => !x.Value.ToLower().EndsWith("us") && !x.Value.ToLower().EndsWith("uk"))
+            .ToDictionary(x => x.Key, x => x.Value);
+            
+
         foreach (var item in emails)
         {
             Console.WriteLine($"{item.Key} -> {item.Value}");
@@ -47,9 +52,5 @@ class AMinerTask
             emails[lastInput] = input;
         }
 
-        if (input.EndsWith("us") || input.EndsWith("uk"))
-        {
-            emails.Remove(lastInput);
-        }
     }
 }

@@ -1,123 +1,71 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+
 class Program
 {
     static void Main()
     {
+        var cardsPower = GetCardsPower();
+        var cardsType = GetCardsType();
         string input = Console.ReadLine();
-        var cards = new Dictionary<string, List<string>>();
+        var cards = new Dictionary<string, HashSet<int>>();
 
         while (input != "JOKER")
         {
-            var param = input.Split(new[] {':'}, StringSplitOptions.RemoveEmptyEntries).ToArray();
+            var param = input.Split(':');
             string name = param[0];
-            var line = param[1].Split(new[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries).ToList();
+            var playerCards = param[1].Split(", ".ToCharArray(), StringSplitOptions.RemoveEmptyEntries).ToList();
 
-            AddCardsToPlayers(cards, line, name);
+            foreach (var card in playerCards)
+            {
+                var power = card.Substring(0, card.Length - 1);
+                var type = card.Substring(card.Length - 1);
 
+                int sum = cardsPower[power] * cardsType[type];
+
+                if (!cards.ContainsKey(name))
+                {
+                    cards[name] = new HashSet<int>();
+                }
+
+                cards[name].Add(sum);
+            }
             input = Console.ReadLine();
         }
 
-        foreach (var name in cards.Keys)
+        foreach (var player in cards)
         {
-            int sum = 0;
-            foreach (var item in cards[name])
-            {
-                var temp = item.ToCharArray();
-                int power = 0;
-                int type = 0;
-                if (temp.Length == 3)
-                {
-                    temp[1] = temp[2];
-                }
-                power = TryToParsePower(temp);
-                type = TryToParseType(temp);
-
-                if (temp.Length == 3)
-                {
-                    power *= 10; 
-                }
-                sum += power * type;
-            }
-
-            Console.WriteLine($"{name}: {sum}");
+            Console.WriteLine($"{player.Key}: {player.Value.Sum()}");
         }
     }
 
-    private static int TryToParseType(char[] temp)
+    private static Dictionary<string, int> GetCardsType()
     {
-        int type;
-        if (!int.TryParse(temp[1].ToString(), out type))
-        {
-            switch (temp[1].ToString())
-            {
-                case "S":
-                    type = 4;
-                    break;
-                case "H":
-                    type = 3;
-                    break;
-                case "D":
-                    type = 2;
-                    break;
-                case "C":
-                    type = 1;
-                    break;
-            }
-        }
+        var types = new Dictionary<string, int>();
 
-        else
-        {
-            type = int.Parse(temp[1].ToString());
-        }
+        types["S"] = 4;
+        types["H"] = 3;
+        types["D"] = 2;
+        types["C"] = 1;
 
-        return type;
+        return types;
     }
 
-    private static int TryToParsePower(char[] temp)
+    private static Dictionary<string, int> GetCardsPower()
     {
-        int power;
-        if (!int.TryParse(temp[0].ToString(), out power))
+        var powers = new Dictionary<string, int>();
+
+        for (int i = 2; i <= 10; i++)
         {
-            switch (temp[0].ToString())
-            {
-                case "J":
-                    power = 11;
-                    break;
-                case "Q":
-                    power = 12;
-                    break;
-                case "K":
-                    power = 13;
-                    break;
-                case "A":
-                    power = 14;
-                    break;
-            }
+            powers[i.ToString()] = i;
         }
 
-        else
-        {
-            power = int.Parse(temp[0].ToString());
-        }
+        powers["J"] = 11;
+        powers["Q"] = 12;
+        powers["K"] = 13;
+        powers["A"] = 14;
 
-        return power;
-    }
-
-    private static void AddCardsToPlayers(Dictionary<string, List<string>> cards, List<string> line, string name)
-    {
-        if (!cards.ContainsKey(name))
-        {
-            cards[name] = new List<string>();
-        }
-
-        foreach (var item in line)
-        {
-            if (!cards[name].Contains(item))
-            {
-                cards[name].Add(item);
-            }
-        }
+        return powers;
     }
 }
