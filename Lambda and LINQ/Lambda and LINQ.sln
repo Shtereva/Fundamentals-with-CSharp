@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Dragon Army", "11. Drag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. User Logs", "06. User Logs\06. User Logs.csproj", "{32503D3E-3EBB-4EAD-AE6D-F7A5220A2D75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Population Counter", "07. Population Counter\07. Population Counter.csproj", "{AEC818C3-B5A9-403A-AB52-419BF5D1511C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Logs Aggregator", "08. Logs Aggregator\08. Logs Aggregator.csproj", "{1A934D21-DD1A-4A1D-B390-84529EE13D3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{32503D3E-3EBB-4EAD-AE6D-F7A5220A2D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32503D3E-3EBB-4EAD-AE6D-F7A5220A2D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32503D3E-3EBB-4EAD-AE6D-F7A5220A2D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC818C3-B5A9-403A-AB52-419BF5D1511C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC818C3-B5A9-403A-AB52-419BF5D1511C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC818C3-B5A9-403A-AB52-419BF5D1511C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC818C3-B5A9-403A-AB52-419BF5D1511C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A934D21-DD1A-4A1D-B390-84529EE13D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A934D21-DD1A-4A1D-B390-84529EE13D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A934D21-DD1A-4A1D-B390-84529EE13D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A934D21-DD1A-4A1D-B390-84529EE13D3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
