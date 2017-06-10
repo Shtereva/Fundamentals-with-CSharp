@@ -45,4 +45,5 @@ class LogsAggregator
 
         logs[name][addressIP] += duration;
     }
+    
 }

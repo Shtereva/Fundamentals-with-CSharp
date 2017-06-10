@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Population Counter", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Logs Aggregator", "08. Logs Aggregator\08. Logs Aggregator.csproj", "{1A934D21-DD1A-4A1D-B390-84529EE13D3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Legendary Farming", "09. Legendary Farming\09. Legendary Farming.csproj", "{A22AF2E9-0C63-4D66-823B-7469B134DFEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Сръбско Unleashed", "10. Сръбско Unleashed\10. Сръбско Unleashed.csproj", "{0633D171-2DA6-489D-A69F-20155B7E4469}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{1A934D21-DD1A-4A1D-B390-84529EE13D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A934D21-DD1A-4A1D-B390-84529EE13D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A934D21-DD1A-4A1D-B390-84529EE13D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A22AF2E9-0C63-4D66-823B-7469B134DFEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22AF2E9-0C63-4D66-823B-7469B134DFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22AF2E9-0C63-4D66-823B-7469B134DFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22AF2E9-0C63-4D66-823B-7469B134DFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0633D171-2DA6-489D-A69F-20155B7E4469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0633D171-2DA6-489D-A69F-20155B7E4469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0633D171-2DA6-489D-A69F-20155B7E4469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0633D171-2DA6-489D-A69F-20155B7E4469}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
