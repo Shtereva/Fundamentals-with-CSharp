@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSequenceOfEqualElements", "MaxSequenceOfEqualElements\MaxSequenceOfEqualElements.csproj", "{60B57641-E67C-4396-B20A-C4DD04F5325F}"
 EndProject
@@ -12,6 +12,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sum Reversed Numbers", "04. Sum Reversed Numbers\04. Sum Reversed Numbers.csproj", "{2BCF684B-E07C-4F5E-98CB-1ACF8EF43A93}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Bomb Numbers", "05. Bomb Numbers\05. Bomb Numbers.csproj", "{F2BEDC93-F6B3-4BB3-87E3-EEBBFB0BB6FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Change List", "02. Change List\02. Change List.csproj", "{2E6F922E-C7D1-425D-B58D-AC977A7C5ED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Search for a Number", "03. Search for a Number\03. Search for a Number.csproj", "{CF186656-3212-4A8D-BD8B-702CB4BE4508}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{F2BEDC93-F6B3-4BB3-87E3-EEBBFB0BB6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2BEDC93-F6B3-4BB3-87E3-EEBBFB0BB6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2BEDC93-F6B3-4BB3-87E3-EEBBFB0BB6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E6F922E-C7D1-425D-B58D-AC977A7C5ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6F922E-C7D1-425D-B58D-AC977A7C5ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6F922E-C7D1-425D-B58D-AC977A7C5ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6F922E-C7D1-425D-B58D-AC977A7C5ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF186656-3212-4A8D-BD8B-702CB4BE4508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF186656-3212-4A8D-BD8B-702CB4BE4508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF186656-3212-4A8D-BD8B-702CB4BE4508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF186656-3212-4A8D-BD8B-702CB4BE4508}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
