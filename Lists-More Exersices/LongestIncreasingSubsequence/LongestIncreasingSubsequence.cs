@@ -8,78 +8,55 @@ namespace LongestIncreasingSubsequence
     {
         static void Main()
         {
-            var numbers = Console.ReadLine().Split().Select(int.Parse).ToList();
-            var result = new List<int>();
-            int startIndex = 0;
-            FindTheStartOfSubSequence(numbers, result, ref startIndex);
-            ProccesingList(numbers, result, startIndex);
+            var numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
-            Console.WriteLine(string.Join(" ", result));
+            var longestIncreasingSubsequence = FindLongestIncreasingSubSequence(numbers);
+            Console.WriteLine(string.Join(" ", longestIncreasingSubsequence));
         }
 
-        private static void ProccesingList(List<int> numbers, List<int> result, int startIndex)
+        private static int[] FindLongestIncreasingSubSequence(int[] arr)
         {
-            for (int i = startIndex; i < numbers.Count; i++)
+            var lenghts = new int[arr.Length];
+            var previous = new int[arr.Length];
+
+            int bestLenght = 0;
+            int lastIndex = -1;
+
+            for (int anchor = 0; anchor < arr.Length; anchor++)
             {
-                bool equalNum = result.Contains(numbers[i]);
+                lenghts[anchor] = 1;
+                previous[anchor] = -1;
 
-                if (equalNum)
-                {
-                    continue;
-                }
+                var anchorNum = arr[anchor];
 
-                else
+                for (int i = 0; i < anchor; i++)
                 {
-                    if (numbers[i] > result[result.Count - 1])
+                    var currentNum = arr[i];
+
+                    if (currentNum < anchorNum && lenghts[i] + 1 > lenghts[anchor])
                     {
-                        result.Add(numbers[i]);
-                    }
-
-                    else
-                    {
-                        CompareElements(numbers, result, i);
-                    }
-                }
-            }
-        }
-
-        private static void FindTheStartOfSubSequence(List<int> numbers, List<int> result, ref int startIndex)
-        {
-            if (numbers.Count == 1)
-            {
-                result.Add(numbers[0]);
-                return;
-            }
-
-            for (int i = 1; i < numbers.Count; i++)
-            {
-                if (numbers[i] < numbers[0] && i != numbers.Count- 1 && numbers[i] < numbers[i + 1])
-                {
-                    result.Add(numbers[i]);
-                    startIndex = i + 1;
-                    return;
-                }
-            }
-
-            result.Add(numbers[0]);
-            startIndex = 1;
-        }
-
-        private static void CompareElements(List<int> numbers, List<int> result, int i)
-        {
-            if (i != numbers.Count - 1 && numbers[i] < numbers[i + 1])
-            {
-                for (int j = result.Count - 1; j > 0; j--)
-                {
-                    if (numbers[i] < result[j] && numbers[i] > result[j - 1])
-                    {
-                        result.RemoveRange(j, result.Count - j);
-                        result.Add(numbers[i]);
-                        break;
+                        lenghts[anchor] = lenghts[i] + 1;
+                        previous[anchor] = i;
                     }
                 }
+
+                if (lenghts[anchor] > bestLenght)
+                {
+                    bestLenght = lenghts[anchor];
+                    lastIndex = anchor;
+                }
             }
 
+            var longestIncreasingSubSequence = new List<int>();
+
+            while (lastIndex != - 1)
+            {
+                longestIncreasingSubSequence.Add(arr[lastIndex]);
+                lastIndex = previous[lastIndex];
+            }
+
+            longestIncreasingSubSequence.Reverse();
+            return longestIncreasingSubSequence.ToArray();
         }
     }
 }
