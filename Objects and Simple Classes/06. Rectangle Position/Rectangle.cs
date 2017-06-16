@@ -9,7 +9,7 @@ namespace _06.Rectangle_Position
         public long Width { get; set; }
         public long Height { get; set; }
 
-        public long Bottom
+        public long Bottom 
         {
             get
             {
