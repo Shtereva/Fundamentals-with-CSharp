@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Book Library", "05. Boo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Book Library Modification", "06. Book Library Modification\06. Book Library Modification.csproj", "{0C5A9D68-327E-433F-AC61-F7CBFD998E56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Andrey and billiard", "7. Andrey and billiard\07. Andrey and billiard.csproj", "{9E928B97-0CEB-4265-ACA3-D014F4BBEDB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. MentorGroup", "08. MentorGroup\08. MentorGroup.csproj", "{AAA9C5F8-2789-4B44-A000-172296BD9EB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{0C5A9D68-327E-433F-AC61-F7CBFD998E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C5A9D68-327E-433F-AC61-F7CBFD998E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C5A9D68-327E-433F-AC61-F7CBFD998E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E928B97-0CEB-4265-ACA3-D014F4BBEDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E928B97-0CEB-4265-ACA3-D014F4BBEDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E928B97-0CEB-4265-ACA3-D014F4BBEDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E928B97-0CEB-4265-ACA3-D014F4BBEDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA9C5F8-2789-4B44-A000-172296BD9EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA9C5F8-2789-4B44-A000-172296BD9EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA9C5F8-2789-4B44-A000-172296BD9EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA9C5F8-2789-4B44-A000-172296BD9EB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
