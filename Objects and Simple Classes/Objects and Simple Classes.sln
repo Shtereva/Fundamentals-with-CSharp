@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Circles Intersection", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Average Grades", "04. Average Grades\04. Average Grades.csproj", "{B178D054-F24B-4BCB-BA10-1C92F5004020}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Book Library", "05. Book Library\05. Book Library.csproj", "{24897891-A04F-459A-B3D1-738BB3BCAF54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Book Library Modification", "06. Book Library Modification\06. Book Library Modification.csproj", "{0C5A9D68-327E-433F-AC61-F7CBFD998E56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{B178D054-F24B-4BCB-BA10-1C92F5004020}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B178D054-F24B-4BCB-BA10-1C92F5004020}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B178D054-F24B-4BCB-BA10-1C92F5004020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24897891-A04F-459A-B3D1-738BB3BCAF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24897891-A04F-459A-B3D1-738BB3BCAF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24897891-A04F-459A-B3D1-738BB3BCAF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24897891-A04F-459A-B3D1-738BB3BCAF54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C5A9D68-327E-433F-AC61-F7CBFD998E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5A9D68-327E-433F-AC61-F7CBFD998E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5A9D68-327E-433F-AC61-F7CBFD998E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5A9D68-327E-433F-AC61-F7CBFD998E56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
