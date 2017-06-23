@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.13
+VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Odd Lines", "1. Odd Lines\1. Odd Lines.csproj", "{1D03ED1A-EF36-45FF-AC23-DAE3434CC0BE}"
 EndProject
@@ -12,6 +12,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Merge Files", "4. Merge Files\4. Merge Files.csproj", "{0A6F5B54-A979-42CF-8797-7D35F84B18C1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Folder Size", "5. Folder Size\5. Folder Size.csproj", "{823D56B9-D050-4769-9B97-03FC3C23FBFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. HTML Contents", "2. HTML Contents\2. HTML Contents.csproj", "{F8467254-A976-46A3-B988-E73E9C1454B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Punctuation Finder", "04. Punctuation Finder\04. Punctuation Finder.csproj", "{FE8F713B-A106-4A52-A3F9-F7E1B3972344}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{823D56B9-D050-4769-9B97-03FC3C23FBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{823D56B9-D050-4769-9B97-03FC3C23FBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{823D56B9-D050-4769-9B97-03FC3C23FBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8467254-A976-46A3-B988-E73E9C1454B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8467254-A976-46A3-B988-E73E9C1454B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8467254-A976-46A3-B988-E73E9C1454B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8467254-A976-46A3-B988-E73E9C1454B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8F713B-A106-4A52-A3F9-F7E1B3972344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8F713B-A106-4A52-A3F9-F7E1B3972344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8F713B-A106-4A52-A3F9-F7E1B3972344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8F713B-A106-4A52-A3F9-F7E1B3972344}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
