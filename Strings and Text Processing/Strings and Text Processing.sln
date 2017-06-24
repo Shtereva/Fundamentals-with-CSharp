@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Text Filter", "03. Text
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Palindromes", "04. Palindromes\04. Palindromes.csproj", "{0843080A-B6AE-4A2A-A988-F6FA8C85686F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Placeholders", "01. Placeholders\01. Placeholders.csproj", "{813ED282-EFE5-413E-B3CB-47D9E412589B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. JSON Stringify", "02. JSON Stringify\02. JSON Stringify.csproj", "{F67FC746-7464-4D24-8686-E7A7A71A067C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{0843080A-B6AE-4A2A-A988-F6FA8C85686F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0843080A-B6AE-4A2A-A988-F6FA8C85686F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0843080A-B6AE-4A2A-A988-F6FA8C85686F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{813ED282-EFE5-413E-B3CB-47D9E412589B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813ED282-EFE5-413E-B3CB-47D9E412589B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813ED282-EFE5-413E-B3CB-47D9E412589B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813ED282-EFE5-413E-B3CB-47D9E412589B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67FC746-7464-4D24-8686-E7A7A71A067C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67FC746-7464-4D24-8686-E7A7A71A067C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67FC746-7464-4D24-8686-E7A7A71A067C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67FC746-7464-4D24-8686-E7A7A71A067C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
