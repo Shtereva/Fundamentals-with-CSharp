@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. HTML Contents", "2. HTML
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Punctuation Finder", "04. Punctuation Finder\04. Punctuation Finder.csproj", "{FE8F713B-A106-4A52-A3F9-F7E1B3972344}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Personal Exception", "08. Personal Exception\08. Personal Exception.csproj", "{11D30C83-A27E-443B-8395-1F71E41AF9B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Play Catch", "07. Play Catch\07. Play Catch.csproj", "{2FE0384A-C703-4510-9EDA-225B110077C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{FE8F713B-A106-4A52-A3F9-F7E1B3972344}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE8F713B-A106-4A52-A3F9-F7E1B3972344}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE8F713B-A106-4A52-A3F9-F7E1B3972344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D30C83-A27E-443B-8395-1F71E41AF9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D30C83-A27E-443B-8395-1F71E41AF9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D30C83-A27E-443B-8395-1F71E41AF9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D30C83-A27E-443B-8395-1F71E41AF9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE0384A-C703-4510-9EDA-225B110077C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE0384A-C703-4510-9EDA-225B110077C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE0384A-C703-4510-9EDA-225B110077C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE0384A-C703-4510-9EDA-225B110077C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

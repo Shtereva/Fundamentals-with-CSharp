@@ -25,9 +25,10 @@ namespace _04.Punctuation_Finder
                 wordsOnly.AddRange(words);
             }
 
-            string output = string.Join(",", punctuations);
+            string output = string.Join(", ", punctuations);
             File.WriteAllText("output.txt", output);
-            File.WriteAllText("output2.txt", string.Join(" ", wordsOnly));
+            File.WriteAllLines("output2.txt", wordsOnly);
+            Console.WriteLine(string.Join(Environment.NewLine, wordsOnly));
         }
     }
 }
