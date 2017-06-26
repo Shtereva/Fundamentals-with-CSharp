@@ -10,29 +10,46 @@ namespace _03.Pyramidic
         static void Main()
         {
             int n = int.Parse(Console.ReadLine());
-            var pyramidic = new Dictionary<char, int>();
-            int count = 3;
+            var pyramidic = new List<string>();
+            var lines = new string[n];
 
             for (int i = 0; i < n; i++)
             {
-                var lines = Console.ReadLine();
-                foreach (var letter in lines.ToCharArray())
-                {
-                    if (!pyramidic.ContainsKey(letter))
-                    {
-                        pyramidic[letter] = 1;
-                    }
-                }
+                lines[i] = Console.ReadLine();
+            }
 
-                foreach (var letter in pyramidic)
+            for (int i = 0; i < lines.Length; i++)
+            {
+                string currentLine = lines[i];
+
+                for (int j = 0; j < currentLine.Length; j++)
                 {
-                    string pattern = new string(letter.Key, letter.Value + 2);
-                    if (lines.Contains(pattern))
+                    char currentCharacter = currentLine[j];
+                    int layer = 1;
+                    string currentPyramd = string.Empty;
+
+                    for (int k = i; k < lines.Length; k++)
                     {
-                        pyramidic[letter.Key] += 2;
+                        string currentLayer = new string(currentCharacter, layer);
+
+                        if (lines[k].Contains(currentLayer))
+                        {
+                            currentPyramd += currentLayer + Environment.NewLine;
+                        }
+
+                        else
+                        {
+                            break;
+                        }
+
+                        layer += 2;
                     }
+
+                    pyramidic.Add(currentPyramd.Trim());
                 }
             }
+
+            Console.WriteLine(pyramidic.OrderByDescending(x => x.Length).First());
         }
     }
 }
