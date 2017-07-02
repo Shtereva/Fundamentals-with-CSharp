@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Weather", "04. Weather\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Key Replacer", "05. Key Replacer\05. Key Replacer.csproj", "{53DBC2E7-CBC1-4764-8D39-E593D326B42B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Valid Usernames", "06. Valid Usernames\06. Valid Usernames.csproj", "{CA520002-DDA5-4C1D-8B97-209F33675680}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Query Mess", "07. Query Mess\07. Query Mess.csproj", "{2A8A0C00-98A9-4188-A4DB-B27C2448012B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{53DBC2E7-CBC1-4764-8D39-E593D326B42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53DBC2E7-CBC1-4764-8D39-E593D326B42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53DBC2E7-CBC1-4764-8D39-E593D326B42B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA520002-DDA5-4C1D-8B97-209F33675680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA520002-DDA5-4C1D-8B97-209F33675680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA520002-DDA5-4C1D-8B97-209F33675680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA520002-DDA5-4C1D-8B97-209F33675680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8A0C00-98A9-4188-A4DB-B27C2448012B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8A0C00-98A9-4188-A4DB-B27C2448012B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8A0C00-98A9-4188-A4DB-B27C2448012B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8A0C00-98A9-4188-A4DB-B27C2448012B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

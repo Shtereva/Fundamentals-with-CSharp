@@ -11,19 +11,19 @@ namespace _05.Key_Replacer
         static void Main()
         {
             string input1 = Console.ReadLine();
-            var regex = new Regex(@"^(?<start>\w+)[<\|\\][\w\|]+\|(?<end>\w+)$");
+            var regex = new Regex(@"^(?<start>\w+)[<\|\\].*[<\|\\](?<end>\w+)$");
             var keys = regex.Match(input1);
 
             string start = keys.Groups["start"].Value;
             string end = keys.Groups["end"].Value;
 
             var input2 = Console.ReadLine();
-            var regexBetween = new Regex(start + @"(?<textBetween>[\w]{0,}?)" + end);
+            var regexBetween = new Regex(start + @"(?<textBetween>.{0,}?)" + end);
 
             var matches = regexBetween.Matches(input2)
                 .Cast<Match>()
                 .ToList();
-
+             
             var result = new List<string>();
             
             foreach (var match in matches)
@@ -32,8 +32,6 @@ namespace _05.Key_Replacer
             }
 
             Console.WriteLine(result.All(x => x == "") ? "Empty result" : $"{string.Join("", result)}");
-
-
         }
     }
 }
