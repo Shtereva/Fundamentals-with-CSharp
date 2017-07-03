@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sino The Walker", "01. Sino The Walker\01. Sino The Walker.csproj", "{F2E8ADED-E422-4FAD-AFBD-207AA942E3AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. SoftUni Karaoke", "02. SoftUni Karaoke\02. SoftUni Karaoke.csproj", "{38CC7549-76E6-4C2D-BFE6-C8A9EB0AC4BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Endurance Rally", "03. Endurance Rally\03. Endurance Rally.csproj", "{9E2DD9AC-364A-4097-853A-4A008D2D760E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Winning Ticket", "04. Winning Ticket\04. Winning Ticket.csproj", "{93EFE71C-B42A-44C3-B040-2B097F869D87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2E8ADED-E422-4FAD-AFBD-207AA942E3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E8ADED-E422-4FAD-AFBD-207AA942E3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E8ADED-E422-4FAD-AFBD-207AA942E3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E8ADED-E422-4FAD-AFBD-207AA942E3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38CC7549-76E6-4C2D-BFE6-C8A9EB0AC4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38CC7549-76E6-4C2D-BFE6-C8A9EB0AC4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38CC7549-76E6-4C2D-BFE6-C8A9EB0AC4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38CC7549-76E6-4C2D-BFE6-C8A9EB0AC4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E2DD9AC-364A-4097-853A-4A008D2D760E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2DD9AC-364A-4097-853A-4A008D2D760E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2DD9AC-364A-4097-853A-4A008D2D760E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2DD9AC-364A-4097-853A-4A008D2D760E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93EFE71C-B42A-44C3-B040-2B097F869D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EFE71C-B42A-44C3-B040-2B097F869D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EFE71C-B42A-44C3-B040-2B097F869D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EFE71C-B42A-44C3-B040-2B097F869D87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
