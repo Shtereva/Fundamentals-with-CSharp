@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 
 namespace _03.Endurance_Rally
 {
@@ -9,20 +10,19 @@ namespace _03.Endurance_Rally
     {
         static void Main()
         {
-            var drivers = Console.ReadLine()
-                .Split()
+            var drivers = Regex.Split(Console.ReadLine(), @"\s+")
+                .Where(x => x.Length > 0)
                 .Distinct()
                 .ToArray();
 
-            var zoneFuel = Console.ReadLine()
-                .Split()
+            var zoneFuel = Regex.Split(Console.ReadLine(), @"\s+")
+                .Where(x => x.Length > 0)
                 .Select(double.Parse)
                 .ToArray();
 
-            var checkpoints = Console.ReadLine()
-                .Split()
-                .Select(int.Parse)
-                .Where(x => x >= 0 && x <= zoneFuel.Length - 1)
+            var checkpoints = Regex.Split(Console.ReadLine(), @"\s+")
+                .Where(x => x.Length > 0)
+                .Select(long.Parse)
                 .Distinct()
                 .ToArray();
 
@@ -51,9 +51,9 @@ namespace _03.Endurance_Rally
                 .ForEach(x => Console.WriteLine(x.Value));
         }
 
-        private static void CalculateFuel(ref double fuel, ref bool endGame, double[] zoneFuel, int[] checkpoints, Dictionary<string, string> result, string driver)
+        private static void CalculateFuel(ref double fuel, ref bool endGame, double[] zoneFuel, long[] checkpoints, Dictionary<string, string> result, string driver)
         {
-            for (int i = 0; i < zoneFuel.Length; i++)
+            for (long i = 0; i < zoneFuel.Length; i++)
             {
                 if (checkpoints.Contains(i))
                 {

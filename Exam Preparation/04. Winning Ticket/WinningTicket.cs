@@ -10,36 +10,39 @@ namespace _04.Winning_Ticket
     {
         static void Main()
         {
-            var input = Console.ReadLine().Split(", ".ToCharArray(), StringSplitOptions.RemoveEmptyEntries);
-            var winningSymbols = "@#$^".ToCharArray();
+            var tickets = Console.ReadLine().Split(", ".ToCharArray(), StringSplitOptions.RemoveEmptyEntries);
+            
 
-            foreach (var VARIABLE in input)
+            foreach (var ticket in tickets)
             {
-                int len = VARIABLE.Length;
-                var ticket = Regex.Match(VARIABLE, @"(?<=\s|^).{20}(?=\s|$)");
-
-                if (!ticket.Success)
+                if (ticket.Length < 20 || ticket.Length > 20)
                 {
-                    Console.WriteLine("Invalid ticket");
-                    continue;
+                    Console.WriteLine("invalid ticket");
                 }
 
-                for (int i = 0; i < winningSymbols.Length; i++)
+                else
                 {
-                    var symbol = Regex.Match(ticket.Value, @".*?(\" + winningSymbols[i] + @"{6,9}).*?\1");
-                    if (symbol.Success)
+                    var leftSide = new string(ticket.Take(10).ToArray());
+                    var rightSide = new string(ticket.Skip(10).Take(10).ToArray());
+
+                    var leftLongestSeq = FindMaxEqualSeq(leftSide);
+                    var rightLongestSeq = FindMaxEqualSeq(rightSide);
+
+                    bool leftWinSymbols = leftLongestSeq.Contains("@") || leftLongestSeq.Contains("#") ||
+                                          leftLongestSeq.Contains("$") || leftLongestSeq.Contains("^");
+                    bool rightWinSymbols = rightLongestSeq.Contains("@") || rightLongestSeq.Contains("#") ||
+                                           rightLongestSeq.Contains("$") || rightLongestSeq.Contains("^");
+
+                    if (leftLongestSeq.Length >= 6 && rightLongestSeq.Length >= 6 && leftLongestSeq[0] == rightLongestSeq[0]
+                        && leftWinSymbols && rightWinSymbols)
                     {
-                        var index = symbol.Value.IndexOf(winningSymbols[i]);
-
-                        if (ticket.Value.All(x => x == winningSymbols[i]))
+                        var count = Math.Min(leftLongestSeq.Length, rightLongestSeq.Length);
+                        Console.Write($"ticket \"{ticket}\" - {count}{leftLongestSeq[0]}");
+                        if (count == 10)
                         {
-                            Console.WriteLine($"ticket \"{ticket}\" - 10$ Jackpot!");
+                            Console.Write(" Jackpot!");
                         }
-
-                        else
-                        {
-                            
-                        }
+                        Console.WriteLine();
                     }
 
                     else
@@ -47,8 +50,32 @@ namespace _04.Winning_Ticket
                         Console.WriteLine($"ticket \"{ticket}\" - no match");
                     }
                 }
-
             }
+        }
+
+        private static string FindMaxEqualSeq(string text)
+        {
+            var bestStr = text[0].ToString();
+            var max = 1;
+
+            for (int i = 0; i < text.Length; i++)
+            {
+                var ch = text[i];
+                var count = 0;
+
+                while (i + count < text.Length && text[i + count] == text[i])
+                {
+                    count++;
+
+                    if (count > max)
+                    {
+                        max = count;
+                        bestStr = text.Substring(i, count);
+                    }
+                }
+            }
+
+            return bestStr;
         }
     }
 }
